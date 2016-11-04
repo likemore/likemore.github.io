@@ -1,0 +1,44 @@
+# Site settings
+title: 逼乎
+url: "http://likemore.cc/" 
+baseurl: "/likemore.github.io" 
+#timezone: Asia/Beijing
+description: likemore blog
+# Your information
+email: likemoreteam@foxmail.com
+author: like
+place: 幻想乡
+domain: Internet
+company: likeore
+position: IT
+school: XX学园
+major: 还没想好
+resume: "http://likemore.cc/"
+profile: 水能载舟，亦可赛艇。
+twitter_username: likemore
+weibo_username:  likemoreteam
+github_username:  likemore
+
+# Comment Service (Disqus or 多说)
+#  choose one and un-comment the line to active it
+# disqus_shortname: likemore 
+# get one: https://disqus.com/admin/signup/
+duoshuo_shortname: likemore
+# get one: http://duoshuo.com/create-site/
+
+permalink: /archivers/:title
+gems:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+
+# Build settings
+paginate: 5
+paginate_path: "/page:num"
+
+highlighter: rouge
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
