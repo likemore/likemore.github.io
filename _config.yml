@@ -9,7 +9,7 @@ email: likemoreteam@foxmail.com
 author: like
 place: 幻想乡
 domain: Internet
-company: likeore
+company: likemore
 position: IT
 school: XX学园
 major: 还没想好
@@ -33,7 +33,7 @@ gems:
  - jemoji
 
 # Build settings
-paginate: 5
+paginate: 20
 paginate_path: "/page:num"
 
 highlighter: rouge
