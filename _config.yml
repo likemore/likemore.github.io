@@ -1,7 +1,7 @@
 # Site settings
 title: 逼乎
 url: "http://likemore.cc" 
-baseurl: "/likemore.github.io/home" 
+baseurl: "/likemore.github.io" 
 #timezone: Asia/Beijing
 description: likemore blog
 # Your information
