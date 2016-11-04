@@ -1,0 +1,139 @@
+---
+layout: default
+title:  "EXhentai使用方法"
+date:   2016-10-23 12:40:00
+categories: main
+---
+
+# ExHentai使用方法
+
+ExHentai是一个以十八禁内容为主的盗版本子分享网站，支持在线看，一些上传者会上传部分本子的bt种子
+
+[进入](#进入) [查看](#查看) [下载](#下载)
+
+<h2 id="进入">进入</h2>
+
+* ExHentai目前没墙(2016年10月23日)但如果你直接进入[ExHentai](https://exhentai.org/)，你会看见一只熊猫而不能浏览，这里有正确进入该网站的几种方法
+
+---
+
+* 方法一：使用书签
+
+1. 打开书签栏，添加网页，将以下代码添加为书签，自己随便起一个好记的名字
+
+```
+javascript:void((function(){var a=document.createElement('script');a.id='panda';a.setAttribute('src','https://dn-none.qbox.me/panda.js?'+Math.random());document.body.appendChild(a);})());
+```
+
+2. 然后打开[ExHentai](https://exhentai.org/)，你会看到它
+![](https://ooo.0o0.ooo/2016/10/23/580c72c6a8bc2.jpg)
+
+3. 现在点击刚刚保存好的书签，等待几秒，进入Exhentai首页
+
+---
+
+* 方法2：使用扩展
+
+1. 这个扩展的名字叫做ExHentai Easy 2/Sad Panda
+你的浏览器需要支持chrome或者firefox的扩展，安卓端的firefox可以，但在chrome是不行的，如果你是ios系统那么你不能使用该方法
+
+2. <h4 id="安装扩展">安装扩展</h4>
+* [Firefox-add ons](https://addons.mozilla.org/en-US/firefox/addon/exhentai-easy-2/) **安卓也能用哦**
+* [Chrome-web store](https://chrome.google.com/webstore/detail/sad-panda/bohapeiooecafommnlaiccilacgmkaoc) **这个链接有墙**
+* 如果你因为某些特殊的原因无法添加网址，你可以选择[科学上网](http://likemore.cc/main/2016/10/01/free-web.html)或者手动安装插件
+    * 手动安装插件
+	 * 进入作者的[github项目发布页](https://github.com/haruhichan/exhentai-plugins)，点击Download下载
+	 * 在浏览器设置中打开扩展程序，此处以[Chrome](chrome://extensions/)为例，开启开发者模式，打包扩展程序，选择扩展程序根目录输出为crx文件，改一个好记的名字
+	 * 现在把打包好的crx文件拖入浏览器以安装插件
+	 ![](https://ooo.0o0.ooo/2016/10/23/580c732a82f8d.png)
+	 ![](https://ooo.0o0.ooo/2016/10/23/580c734826726.png)
+	 ![](https://ooo.0o0.ooo/2016/10/23/580c735c51c91.png)
+	 * 你会发现自己安装成功了
+* <h4 id="注册账号">注册账号</h4>
+    * 打开[ExHentai](https://exhentai.org/)，你会看到熊猫图下面多了登录选项，现在打开[Ehentai社区](https://forums.e-hentai.org/index.php?act=Reg&CODE=00)，注册一个账号
+     ![](https://ooo.0o0.ooo/2016/10/23/580c737abdc0c.png)
+     ![](https://ooo.0o0.ooo/2016/10/23/580c739f7ff66.png)
+	 ![](https://ooo.0o0.ooo/2016/10/23/580c73b332238.png)
+    * 回到ExHentai首页，登录账号，进入Exhentai首页
+     ![](https://ooo.0o0.ooo/2016/10/23/580c73c08b57f.png)
+
+---
+
+* 方法3：注册后登录
+* [注册账号](#注册账号) [参考链接](http://tieba.baidu.com/p/3826129848)
+1.如果你没有安装chrome扩展，那么即使你拥有了账号也不能进入exhentai
+2.现在请编辑浏览器cookies
+    * 访问[E-hentai](http://e-hentai.org/)，访问[ExHentai](https://exhentai.org/)，删除 exhentai.org yay 记录
+    * 导入cookies，将剪贴板中导出的cookies粘贴，将原来的“.e-hentai.org”全部改为“.exhentai.org”提交更改
+    * 如果还是不行请等待一到两周后再登陆或者尝试前两种方法
+* **注：如果你的账号分数足够高的话，在eh登陆会直接跳转到ex首页**
+
+---
+
+* <h2 id="查看">查看</h2>
+
+* ExHentai是英文界面，如果你愿意，可以在GreasyFork上安装脚本
+1. 当然 你需要首先安装[Tampermonkey](http://tampermonkey.net/) [Violent monkey](https://addons.opera.com/zh-cn/extensions/details/violent-monkey/?display=en) [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) 其中一个扩展，安装哪个由你的客户端决定(chrome/opera/firefox)，Tampermonkey几乎已经全平台覆盖，甚至可以在安卓端的Yandex浏览器上使用，所以推荐安装它
+    * 方法与前文提到的相同[安装扩展](#安装扩展)
+2. 安装成功后打开[Ex绅士界面汉化脚本](https://greasyfork.org/en/scripts/6038-ex%E7%BB%85%E5%A3%AB%E7%95%8C%E9%9D%A2%E6%B1%89%E5%8C%96?version=42477)，点击安装此脚本-安装完成安装
+    ![](https://ooo.0o0.ooo/2016/10/23/580c748451fc0.png)
+	![](https://ooo.0o0.ooo/2016/10/23/580c753bed82c.png)
+3. 打开[ExHentai](https://exhentai.org/)，你会发现界面已经汉化了,现在点击右上角的扩展(如果你没将它隐藏的话)，你会看到正在运行的脚本
+    ![](https://ooo.0o0.ooo/2016/10/23/580c770e56fbd.png)
+	![](https://ooo.0o0.ooo/2016/10/23/580c76f05fb1e.png)
+* 关于tag，你可以点击不同的tag来查找不同的漫画
+    * [Doujinxi](https://exhentai.org/doujinshi) 同人
+	* [Manga](https://exhentai.org/manga) 漫画
+	* [Artist CG](https://exhentai.org/artistcg) 艺术[CG](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2) 如果你打不开，可以访问[英文网址](https://en.wikipedia.org/wiki/Computer_graphics)
+	* [Game CG](https://exhentai.org/gamecg) 游戏CG
+	* [Western](https://exhentai.org/western) 欧美
+	* [Non-h](https://exhentai.org/non-h) 全年龄
+	* [Image set](https://exhentai.org/imageset) 图集
+	* [Cosplay](https://exhentai.org/cosplay) [Cosplay](https://zh.wikipedia.org/wiki/Cosplay) 如果你打不开，可以访问[英文网址](https://zh.wikipedia.org/wiki/Cosplay)
+	* [Asian porn](https://exhentai.org/asianporn) 亚洲18X
+	* [Misc](https://exhentai.org/misc) 乱七八糟
+* 如果你的外语不够好，只想看中文本子，那么点[这里](https://exhentai.org/tag/language%3Achinese)   
+* **搜索功能下请使用日文或罗马音搜索**
+
+---
+
+* <h2 id="下载">下载</h2>
+
+* 关于下载，你会发现一部分内容有BT下载链接，这时候点击下载种子，再将它使用百度云管家或迅雷等工具离线就可以了 
+* [百度云管家破解](http://www.zdfans.com/674.html) [迅雷尊享破解](http://www.zdfans.com/3920.html)
+
+     ![](https://ooo.0o0.ooo/2016/10/23/580c772058b48.png)
+	 ![](https://ooo.0o0.ooo/2016/10/23/580c772d65bf3.png)
+* 但还是有那么一些资源没有BT种子，所以你可以用Exhentai archiver下载（消耗c币）如果你想直接下载，那么可以看看前文是如何[安装扩展](#安装扩展)和[安装脚本](#查看)的
+    * [Ex绅士助手](https://chrome.google.com/webstore/detail/ex%E7%BB%85%E5%A3%AB%E5%8A%A9%E6%89%8B/ceegklpccealjoabgpkjjmobjoogddgk?utm_source=chrome-ntp-icon) Chrome扩展 **这个链接有墙** [科学上网](http://likemore.cc/main/2016/10/01/free-web.html)
+	* [Firespider](http://tieba.baidu.com/p/3038754959) uc脚本
+	* [E-Hentai Downloader](https://sleazyfork.org/zh-CN/scripts/10379-e-hentai-downloader) [Github](https://github.com/ccloli/E-Hentai-Downloader) 油猴脚本
+* 以油猴脚本为例，此时打开[ExHentai](https://exhentai.org/)，随便打开一个文件，你会发现界面变了，多出了一个下载栏，点击settings进行下载设置，然后点击Exhentai archiver下载
+     ![](https://ooo.0o0.ooo/2016/10/23/580c77a700d97.png)
+	 ![](https://ooo.0o0.ooo/2016/10/23/580c7777cd7ad.png)
+	 ![](https://ooo.0o0.ooo/2016/10/23/580c778369cb5.png)
+     ![](https://ooo.0o0.ooo/2016/10/23/580c77945b7e7.png)
+* **注：该脚本会与界面汉化脚本冲突** [解决方案](https://github.com/ccloli/E-Hentai-Downloader/issues/50)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
