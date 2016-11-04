@@ -130,7 +130,7 @@ github客户端(GUI)，同步本地与服务器之间的文件，免费
 视频解码软件，免费
 ```
 
-Visual Novel Reader [Vnr整合版](http://pan.baidu.com/s/1i4PD4AL) [Vnr wiki](http://sakuradite.com/wiki/zh/vnr) 替代[喵翻](http://bqsweb.blog.---.com/blog/static/2081432892010013104015130/) [寒风游戏翻译机](http://tieba.baidu.com/p/3223199510#55430297224l) [寒风翻译机度盘](http://pan.baidu.com/s/1c21byIs)
+Visual Novel Reader [Vnr整合版](http://pan.baidu.com/s/1i4PD4AL) [Vnr wiki](http://sakuradite.com/wiki/zh/vnr) 替代[喵翻](http://bqsweb.blog.163.com/blog/static/2081432892010013104015130/) [寒风游戏翻译机](http://tieba.baidu.com/p/3223199510#55430297224l) [寒风翻译机度盘](http://pan.baidu.com/s/1c21byIs)
 
 ```
 安装命令@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('http://sakuradite.org/reader.ps1'))"，免费
