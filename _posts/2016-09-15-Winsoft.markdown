@@ -4,7 +4,7 @@ title:  "Windows常用软件集合"
 date:   2016-10-01 19:20:00
 categories: main
 ---
-# Windows常用软件集合
+一些实用的windows软件收集，更好地使用windows系统。
 
  [常规](#常规) [Galgame](#Galgame) [高级](#高级)
  
@@ -22,12 +22,6 @@ categories: main
 
 ```
 本地文件搜索软件，免费
-```
-
-[Github](https://desktop.github.com/) [官网](https://github.com/)
-
-```
-github客户端(GUI)，同步本地与服务器之间的文件，免费
 ```
 
 [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) 套壳[360急速](http://chrome.360.cn/)   替代品[Firefox](https://www.mozilla.org/en-US/firefox/new/) 第三方整合[RC Firefox](http://www.runningcheese.com/category/firefox) 
@@ -168,10 +162,30 @@ Visual Novel Reader [Vnr整合版](http://pan.baidu.com/s/1i4PD4AL) [Vnr wiki](h
 软件转区，在非日文windows下运行日文游戏，防止软件乱码或打不开，免费
 ```
 
+**拆包和封包**
+* 通用软件
+[Crass](http://galcrass.blog124.fc2blog.us/blog-entry-12.html) [Arc_conv](https://www.mediafire.com/?muchdnunw5z70) [Extractdata]()
+
+```
+万金油解包器，但是不更新了，免费
+```
+
+* krkr
+[Krkrextract](https://github.com/xmoeproject/KrkrExtract) 同类[Xp3viewer](http://bbs.xxxc.at/viewthread.php?tid=1747) [Xp3dumper]()
+
+```
+Xmoe开发，能解krkrz，免费
+```
+
 ----
 
 <h2 id="高级">高级</h2>
 
+[Github](https://desktop.github.com/) [官网](https://github.com/)
+
+```
+github客户端(GUI)，同步本地与服务器之间的文件，免费
+```
 
 
 
