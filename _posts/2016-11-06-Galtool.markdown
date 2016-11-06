@@ -1,225 +1,225 @@
 ---
 layout: default
-title:  "Galgame³ÌĞò¹¤¾ß¼¯ºÏ"
+title:  "Galgameç¨‹åºå·¥å…·é›†åˆ"
 date:   2016-10-23 12:40:00
 categories: main
 ---
 
-GalgameÔËĞĞ²ğ°üÒÔ¼°¹Ù·½sdkµÄÊÕ¼¯£¬·½±ã×ö³ÌĞò
+Galgameè¿è¡Œæ‹†åŒ…ä»¥åŠå®˜æ–¹sdkçš„æ”¶é›†ï¼Œæ–¹ä¾¿åšç¨‹åº
 
-[³£¹æ](#³£¹æ) [²ğ°ü](#²ğ°ü) [SDK](#SDK) [ÆäËû](#ÆäËû)
+[å¸¸è§„](#å¸¸è§„) [æ‹†åŒ…](#æ‹†åŒ…) [SDK](#SDK) [å…¶ä»–](#å…¶ä»–)
 
-<h2 id="³£¹æ">³£¹æ</h2>
+<h2 id="å¸¸è§„">å¸¸è§„</h2>
 
 [Deamon Tools Lite](http://www.daemon-tools.cc/downloads) 
 
 ```
-ĞéÄâ¹âÇı£¬¼ÓÔØiso£¬mds/mdfµÈ¾µÏñÎÄ¼ş£¬ÓĞÃâ·Ñ°æ±¾
+è™šæ‹Ÿå…‰é©±ï¼ŒåŠ è½½isoï¼Œmds/mdfç­‰é•œåƒæ–‡ä»¶ï¼Œæœ‰å…è´¹ç‰ˆæœ¬
 ```
 
 [K-lite Codec Pack](https://www.codecguide.com/download_kl.htm) 
 
 ```
-ÊÓÆµ½âÂëÈí¼ş
+è§†é¢‘è§£ç è½¯ä»¶
 ```
 
-Visual Novel Reader [VnrÕûºÏ°æ](http://pan.baidu.com/s/1i4PD4AL) [Vnr wiki](http://sakuradite.com/wiki/zh/vnr) Ìæ´ú[ß÷·­](http://bqsweb.blog.163.com/blog/static/2081432892010013104015130/) [º®·çÓÎÏ··­Òë»ú](http://tieba.baidu.com/p/3223199510#55430297224l) [º®·ç·­Òë»ú¶ÈÅÌ](http://pan.baidu.com/s/1c21byIs)
+Visual Novel Reader [Vnræ•´åˆç‰ˆ](http://pan.baidu.com/s/1i4PD4AL) [Vnr wiki](http://sakuradite.com/wiki/zh/vnr) æ›¿ä»£[å–µç¿»](http://bqsweb.blog.163.com/blog/static/2081432892010013104015130/) [å¯’é£æ¸¸æˆç¿»è¯‘æœº](http://tieba.baidu.com/p/3223199510#55430297224l) [å¯’é£ç¿»è¯‘æœºåº¦ç›˜](http://pan.baidu.com/s/1c21byIs)
 
 ```
-°²×°ÃüÁî@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('http://sakuradite.org/reader.ps1'))"£¬Ãâ·Ñ
+å®‰è£…å‘½ä»¤@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('http://sakuradite.org/reader.ps1'))"ï¼Œå…è´¹
 ```
 
-**ÆäÖĞ¿ÉÄÜÉæ¼°µÄÈí¼ş**
+**å…¶ä¸­å¯èƒ½æ¶‰åŠçš„è½¯ä»¶**
 
-[Ith](https://code.google.com/archive/p/interactive-text-hooker/downloads) [Agth](http://blog.csdn.net/luozhuang/article/details/5302584) [ÌØÊâÂë»ñÈ¡½Ì³Ì](https://bbs.sumisora.org/read.php?tid=10902593) [Ollydbg](http://ollydbg.de/download.htm)
-
-```
-ÓÃÓÚÌáÈ¡ÓÎÏ·ÖĞµÄÎÄ±¾£¬Ä³Ğ©ÓÎÏ·ĞèÒªÌØÊâÂë
-```
-
-[Jbeijing](http://www.kodensha.jp/soft/jb/) [Jbeijing¶ÈÅÌ](http://pan.baidu.com/s/1eRXllpo)
+[Ith](https://code.google.com/archive/p/interactive-text-hooker/downloads) [Agth](http://blog.csdn.net/luozhuang/article/details/5302584) [ç‰¹æ®Šç è·å–æ•™ç¨‹](https://bbs.sumisora.org/read.php?tid=10902593) [Ollydbg](http://ollydbg.de/download.htm)
 
 ```
-¸ßµçÉç³öÆ·ÖĞÈÕ´Êµä£¬Ä¿Ç°×ÛºÏ·­ÒëÖÊÁ¿×î¸ß£¬¸¶·ÑÈí¼ş
+ç”¨äºæå–æ¸¸æˆä¸­çš„æ–‡æœ¬ï¼ŒæŸäº›æ¸¸æˆéœ€è¦ç‰¹æ®Šç 
+```
+
+[Jbeijing](http://www.kodensha.jp/soft/jb/) [Jbeijingåº¦ç›˜](http://pan.baidu.com/s/1eRXllpo)
+
+```
+é«˜ç”µç¤¾å‡ºå“ä¸­æ—¥è¯å…¸ï¼Œç›®å‰ç»¼åˆç¿»è¯‘è´¨é‡æœ€é«˜ï¼Œä»˜è´¹è½¯ä»¶
 ```
 
 [Annot-player](http://annot-player.joydownload.com/) 
 
 ```
-Ö§³Öµ¯Ä»¹¦ÄÜµÄÊÓÆµ²¥·ÅÆ÷£¬²¥·ÅÓÎÏ·opÓÃµÄ
+æ”¯æŒå¼¹å¹•åŠŸèƒ½çš„è§†é¢‘æ’­æ”¾å™¨ï¼Œæ’­æ”¾æ¸¸æˆopç”¨çš„
 ```
 
 [Cp2tran](https://bbs.sumisora.org/read.php?tid=10918284)
 
 ```
-×Ô¶¯½«¼ôÌù°åµÄÎÄ±¾·Åµ½·­ÒëÆ÷·­Òë¡£¾ßÌåÖ§³ÖÄÄĞ©·­ÒëÆ÷£¬Çë²é¿´Èí¼şµÄ·­ÒëÆ÷ÁĞ±í
+è‡ªåŠ¨å°†å‰ªè´´æ¿çš„æ–‡æœ¬æ”¾åˆ°ç¿»è¯‘å™¨ç¿»è¯‘ã€‚å…·ä½“æ”¯æŒå“ªäº›ç¿»è¯‘å™¨ï¼Œè¯·æŸ¥çœ‹è½¯ä»¶çš„ç¿»è¯‘å™¨åˆ—è¡¨
 ``
 
-[Locale emulator](https://xupefei.github.io/Locale-Emulator/) Ìæ´úÆ·[Ntleas](https://ntlea.codeplex.com/) [Applocale](http://microsoft-applocale.software.informer.com/1.3/) [LocaleSwitch](https://bbs.sumisora.org/read.php?tid=10932331) [SBApplocale](http://www.steelbytes.com/?mid=45)
+[Locale emulator](https://xupefei.github.io/Locale-Emulator/) æ›¿ä»£å“[Ntleas](https://ntlea.codeplex.com/) [Applocale](http://microsoft-applocale.software.informer.com/1.3/) [LocaleSwitch](https://bbs.sumisora.org/read.php?tid=10932331) [SBApplocale](http://www.steelbytes.com/?mid=45)
 
 ```
-Èí¼ş×ªÇø£¬ÔÚ·ÇÈÕÎÄwindowsÏÂÔËĞĞÈÕÎÄÓÎÏ·£¬·ÀÖ¹Èí¼şÂÒÂë»ò´ò²»¿ª
+è½¯ä»¶è½¬åŒºï¼Œåœ¨éæ—¥æ–‡windowsä¸‹è¿è¡Œæ—¥æ–‡æ¸¸æˆï¼Œé˜²æ­¢è½¯ä»¶ä¹±ç æˆ–æ‰“ä¸å¼€
 ```
 
-[Steam](http://store.steampowered.com/) Ìæ´úÆ·[Origin](https://www.origin.com/irl/en-us/store/download) [Uplay](https://uplay.ubi.com/#!/en-us/) [Battlenet](https://us.battle.net/account/download/index.xml?show=bnetapp)
+[Steam](http://store.steampowered.com/) æ›¿ä»£å“[Origin](https://www.origin.com/irl/en-us/store/download) [Uplay](https://uplay.ubi.com/#!/en-us/) [Battlenet](https://us.battle.net/account/download/index.xml?show=bnetapp)
 
 ```
-ÓÎÏ·ÔÚÏß¹ºÂòÆ½Ì¨£¬ÓĞÉÙÁ¿ÈÕÏµÓÎÏ·
+æ¸¸æˆåœ¨çº¿è´­ä¹°å¹³å°ï¼Œæœ‰å°‘é‡æ—¥ç³»æ¸¸æˆ
 ```
 
-[°´¼ü¾«Áé](http://www.anjian.com/) °´¼ü¾«ÁéÂÌ»¯£¨Ã»ÕÒµ½£¬Ë­ÓĞ·¢ÎÒÒ»ÏÂĞ»Ğ»£© ½ø½×°æ[Autohotkey](http://www.ahkscript.org/) [Autohotkey½Ì³Ì](https://autohotkey.com/boards/viewtopic.php?t=1099)
+[æŒ‰é”®ç²¾çµ](http://www.anjian.com/) æŒ‰é”®ç²¾çµç»¿åŒ–ï¼ˆæ²¡æ‰¾åˆ°ï¼Œè°æœ‰å‘æˆ‘ä¸€ä¸‹è°¢è°¢ï¼‰ è¿›é˜¶ç‰ˆ[Autohotkey](http://www.ahkscript.org/) [Autohotkeyæ•™ç¨‹](https://autohotkey.com/boards/viewtopic.php?t=1099)
 
 ```
-Â¼ÖÆ¹Ì¶¨¼üÊó½Å±¾²¢ÔËĞĞµÄ¹ú²úÈí¼ş£¬ÄÚÖÃµ¯´°ÍÆ¹ã£¬¿ÉÒÔÓÃÔÚÒ»Ğ©rpgÉÏ
+å½•åˆ¶å›ºå®šé”®é¼ è„šæœ¬å¹¶è¿è¡Œçš„å›½äº§è½¯ä»¶ï¼Œå†…ç½®å¼¹çª—æ¨å¹¿ï¼Œå¯ä»¥ç”¨åœ¨ä¸€äº›rpgä¸Š
 ```
 
 ----
 
-<h2 id="²ğ°ü">²ğ°ü</h2>
+<h2 id="æ‹†åŒ…">æ‹†åŒ…</h2>
 
-[Ø¿¶¼½²D](http://blog.ztjal.info/category/acg/acg-data)
+[ä¹œéƒ½è®²D](http://blog.ztjal.info/category/acg/acg-data)
 [VNDB](http://vndb.org/)
-[ÅúÆÀ¿Õ¼ä](http://erogamescape.ddo.jp/~ap2/ero/toukei_kaiseki/)
+[æ‰¹è¯„ç©ºé—´](http://erogamescape.ddo.jp/~ap2/ero/toukei_kaiseki/)
 [Bangumi](http://bangumi.tv/game)
 
-**Í¨ÓÃÈí¼ş**
+**é€šç”¨è½¯ä»¶**
 [Crass](http://galcrass.blog124.fc2blog.us/blog-entry-12.html) 
 
 ```
-Íò½ğÓÍ½â°üÆ÷£¬²å¼ş·á¸»£¬ÒÑÍ£Ö¹¸üĞÂ
+ä¸‡é‡‘æ²¹è§£åŒ…å™¨ï¼Œæ’ä»¶ä¸°å¯Œï¼Œå·²åœæ­¢æ›´æ–°
 ```
 
 [Arc_conv](https://www.mediafire.com/?muchdnunw5z70) 
 
 ```
-¶íÂŞË¹ÈËw8m¿ª·¢
+ä¿„ç½—æ–¯äººw8må¼€å‘
 ```
 
 [Extractdata](https://sourceforge.net/projects/extractdata/)
 
 ```
-¿ª·¢Õß±»minori¸æÉÏÁË·¨Í¥£¬ÒÑÍ£Ö¹¸üĞÂ
+å¼€å‘è€…è¢«minoriå‘Šä¸Šäº†æ³•åº­ï¼Œå·²åœæ­¢æ›´æ–°
 ```
 
 [Asmodean](http://asmodean.reverse.net/pages/expdfpk.html)
 
 ```
-Ö§³Ö¹ã·º£¬ÒÑÍ£Ö¹¸üĞÂ
+æ”¯æŒå¹¿æ³›ï¼Œå·²åœæ­¢æ›´æ–°
 ```
 
-[´óÊ¦¡áÂŞÇfµÄ³ÌĞò](http://blog.csdn.net/luozhuang/article/details/45872757)
+[å¤§å¸ˆâ™‚ç½—èŠçš„ç¨‹åº](http://blog.csdn.net/luozhuang/article/details/45872757)
 
 ```
-¸÷ÖÖ´ò°ü½â°üÈí¼ş£¬×÷ÕßÒÑÒşÍË
+å„ç§æ‰“åŒ…è§£åŒ…è½¯ä»¶ï¼Œä½œè€…å·²éšé€€
 ```
 
-[ÓÎÏ·ÎÄ±¾µ¼³ö¹¤¾ß](http://www.anzhi.com/intro.php?softid=367361&auth=1)
+[æ¸¸æˆæ–‡æœ¬å¯¼å‡ºå·¥å…·](http://www.anzhi.com/intro.php?softid=367361&auth=1)
 
 ```
-°²×¿Æ½Ì¨
+å®‰å“å¹³å°
 ```
 
 **krkr**
 [Krkrextract](https://github.com/xmoeproject/KrkrExtract) 
 
 ```
-Xmoe¿ª·¢£¬ÄÜ½âkrkrz
+Xmoeå¼€å‘ï¼Œèƒ½è§£krkrz
 ```
 
 [Xp3viewer](http://bbs.xxxc.at/viewthread.php?tid=1747) 
 
 ```
-³£ÓÃkr2¶¼ÄÜ½â¿ª
+å¸¸ç”¨kr2éƒ½èƒ½è§£å¼€
 ```
 
 [Xp3dumpergui](https://bbs.sumisora.org/read.php?tid=10975710)
 
 ```
-±¾À´ÊÇÃüÁîĞĞ³ÌĞò£¬clowwindy£¨shadowsocks×÷Õß£©¶ş´Î¿ª·¢Îªgui£¬Ëû±»Õş¸®ÇëÈ¥ºÈ²èÁË
+æœ¬æ¥æ˜¯å‘½ä»¤è¡Œç¨‹åºï¼Œclowwindyï¼ˆshadowsocksä½œè€…ï¼‰äºŒæ¬¡å¼€å‘ä¸ºguiï¼Œä»–è¢«æ”¿åºœè¯·å»å–èŒ¶äº†
 ```
 
-[¼ªÀï¼ªÀïXP3ÌáÈ¡¹¤¾ß](http://shouji.baidu.com/software/927743.html)
+[å‰é‡Œå‰é‡ŒXP3æå–å·¥å…·](http://shouji.baidu.com/software/927743.html)
 
 ```
-°²×¿Æ½Ì¨
+å®‰å“å¹³å°
 ```
 
 **onscripter**
-[NSÍ¨ÓÃ¿ª·¢×é¼ş](http://bbs.gfan.com/android-443243-1-1.html) 
+[NSé€šç”¨å¼€å‘ç»„ä»¶](http://bbs.gfan.com/android-443243-1-1.html) 
 
 ```
-huoyanyan¿ª·¢£¨ºº»¯£¿£©£¬acgfÒÑ¹Ø±Õ£¬×÷ÕßÒÑÒşÍË£¬¾ßÌåÇë²é¿´ÄÚ²¿ÎÄµµ£¬ÊÂÊµÉÏ¾ÍÊÇNScripter SDK£¬ÏÂÔØÇëÍùÏÂ·­
+huoyanyanå¼€å‘ï¼ˆæ±‰åŒ–ï¼Ÿï¼‰ï¼Œacgfå·²å…³é—­ï¼Œä½œè€…å·²éšé€€ï¼Œå…·ä½“è¯·æŸ¥çœ‹å†…éƒ¨æ–‡æ¡£ï¼Œäº‹å®ä¸Šå°±æ˜¯NScripter SDKï¼Œä¸‹è½½è¯·å¾€ä¸‹ç¿»
 ```
 
 **Ren'Py**
 [Rpatool](https://github.com/Shizmob/rpatool)
 
 ```
-rpa°ü´´½¨ºÍÑ¹Ëõ
+rpaåŒ…åˆ›å»ºå’Œå‹ç¼©
 ```
 
 [Unrpa](https://github.com/Lattyware/unrpa)
 
 ```
-½ârpa°ü
+è§£rpaåŒ…
 ```
 
 [Unrpyc](https://github.com/CensoredUsername/unrpyc)
 
 ```
-½ârpyc°ü£¬»ù±¾ÉÏÊÇÎÄ±¾
+è§£rpycåŒ…ï¼ŒåŸºæœ¬ä¸Šæ˜¯æ–‡æœ¬
 ```
 
 <h2 id="SDK">SDK</h2>
 
-[krkrSDK](http://kikyou.info/tvp/#downloads) Ä£ÄâÆ÷Kirikiroid2/XP3player °²×¿[Onedrive](https://onedrive.live.com/?authkey=%21AMqv_lMBITnbrH8&id=F278FD903D520A13%21106&cid=F278FD903D520A13) [Googleplay](https://play.google.com/store/apps/details?id=org.tvp.kirikiri2_free) IOS [Appstore](https://itunes.apple.com/app/xp3player/id1064060287) 
+[krkrSDK](http://kikyou.info/tvp/#downloads) æ¨¡æ‹Ÿå™¨Kirikiroid2/XP3player å®‰å“[Onedrive](https://onedrive.live.com/?authkey=%21AMqv_lMBITnbrH8&id=F278FD903D520A13%21106&cid=F278FD903D520A13) [Googleplay](https://play.google.com/store/apps/details?id=org.tvp.kirikiri2_free) IOS [Appstore](https://itunes.apple.com/app/xp3player/id1064060287) 
 
 ```
-ÌØĞ§¶à£¬°²×¿iosºÍwindowsÆ½Ì¨
+ç‰¹æ•ˆå¤šï¼Œå®‰å“ioså’Œwindowså¹³å°
 ```
 
-[NscripterSDK](http://nscripter.insani.org/sdk.html) [Nscripter](http://www.nscripter.com/) [Onscripter-jh](https://bitbucket.org/jh10001/onscripter-jh/downloads) [Mine](http://www.coolapk.com/game/cn.natdon.onscripterv2) [Onscripter¹Ù·½²»Ö§³ÖÖĞÎÄ](https://onscripter.osdn.jp/onscripter.html) [Onscripter´óÊ¦¡áÂŞÇfµÄ³ÌĞò](http://blog.csdn.net/luozhuang/article/details/6269014)
+[NscripterSDK](http://nscripter.insani.org/sdk.html) [Nscripter](http://www.nscripter.com/) [Onscripter-jh](https://bitbucket.org/jh10001/onscripter-jh/downloads) [Mine](http://www.coolapk.com/game/cn.natdon.onscripterv2) [Onscripterå®˜æ–¹ä¸æ”¯æŒä¸­æ–‡](https://onscripter.osdn.jp/onscripter.html) [Onscripterå¤§å¸ˆâ™‚ç½—èŠçš„ç¨‹åº](http://blog.csdn.net/luozhuang/article/details/6269014)
 
 ```
-onsºÍnsÍ¨ÓÃ£¬ÒÆÖ²Æ½Ì¨¶à
+onså’Œnsé€šç”¨ï¼Œç§»æ¤å¹³å°å¤š
 ```
 
 [Ren'PySDK](https://www.renpy.org/latest.html) 
 
 ```
-Ó¢ÎÄÓÎÏ·¶à£¬SDKÖĞ¿ÉÒÔÖ±½Ó´ò°üÎªapkÔËĞĞ
+è‹±æ–‡æ¸¸æˆå¤šï¼ŒSDKä¸­å¯ä»¥ç›´æ¥æ‰“åŒ…ä¸ºapkè¿è¡Œ
 ```
 
 ----
 
-<h2 id="ÆäËû">ÆäËû</h2>
+<h2 id="å…¶ä»–">å…¶ä»–</h2>
 
-[KRKR2 Onscripter ×ÊÔ´´ò°ü¹¤¾ß](http://blog.csdn.net/luozhuang/article/details/32349583?utm_source=tuicool&utm_medium=referral)
-
-```
-ÔÚ°²×¿ÊÖ»úÉÏ´ò°üxp3/nsa/sar
-```
-
-[GAL ¸ßÑ¹Ëõ°æ¸¨Öú¹¤¾ß](http://blog.csdn.net/luozhuang/article/details/8083883)
+[KRKR2 Onscripter èµ„æºæ‰“åŒ…å·¥å…·](http://blog.csdn.net/luozhuang/article/details/32349583?utm_source=tuicool&utm_medium=referral)
 
 ```
-¸÷ÖÖÑ¹ÎÄ¼ş
+åœ¨å®‰å“æ‰‹æœºä¸Šæ‰“åŒ…xp3/nsa/sar
 ```
 
-[Í¼Æ¬¸ñÊ½×ª»»¹¤¾ß](http://www.anzhi.com/intro.php?softid=363164&auth=1)
+[GAL é«˜å‹ç¼©ç‰ˆè¾…åŠ©å·¥å…·](http://blog.csdn.net/luozhuang/article/details/8083883)
 
 ```
-°²×¿Æ½Ì¨£¬Í¼Æ¬¸ñÊ½×ª»»
+å„ç§å‹æ–‡ä»¶
+```
+
+[å›¾ç‰‡æ ¼å¼è½¬æ¢å·¥å…·](http://www.anzhi.com/intro.php?softid=363164&auth=1)
+
+```
+å®‰å“å¹³å°ï¼Œå›¾ç‰‡æ ¼å¼è½¬æ¢
 ```
 
 [Gamepacid](http://blog.csdn.net/luozhuang/article/details/5907639)
 
 ```
-GALGAMEÒıÇæÊ¶±ğ¹¤¾ß
+GALGAMEå¼•æ“è¯†åˆ«å·¥å…·
 ```
 
-[GALGAME ¾ç±¾ÌáÈ¡¹¤¾ß](http://blog.csdn.net/luozhuang/article/details/5312706)
+[GALGAME å‰§æœ¬æå–å·¥å…·](http://blog.csdn.net/luozhuang/article/details/5312706)
 
 ```
-²»Æô¶¯ÓÎÏ·Çé¿öÏÂ½«ÓÎÏ·¾ç±¾±£´æµ½TXTÎÄ¼ş£¬²»ÍêÃÀ
+ä¸å¯åŠ¨æ¸¸æˆæƒ…å†µä¸‹å°†æ¸¸æˆå‰§æœ¬ä¿å­˜åˆ°TXTæ–‡ä»¶ï¼Œä¸å®Œç¾
 ```
