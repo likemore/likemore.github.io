@@ -7,7 +7,7 @@ categories: main
 
 Galgame运行拆包以及官方sdk的收集，方便做程序
 
-[常规](#常规) [拆包](#拆包) [SDK](#SDK)
+[常规](#常规) [拆包](#拆包) [SDK](#SDK) [其他](#其他)
 
 <h2 id="常规">常规</h2>
 
@@ -31,7 +31,7 @@ Visual Novel Reader [Vnr整合版](http://pan.baidu.com/s/1i4PD4AL) [Vnr wiki](http
 
 **其中可能涉及的软件**
 
-[Ith](https://code.google.com/archive/p/interactive-text-hooker/downloads) [Agth](https://sites.google.com/site/agthook/) [特殊码获取教程](https://bbs.sumisora.org/read.php?tid=10902593) [Ollydbg](http://ollydbg.de/download.htm)
+[Ith](https://code.google.com/archive/p/interactive-text-hooker/downloads) [Agth](http://blog.csdn.net/luozhuang/article/details/5302584) [特殊码获取教程](https://bbs.sumisora.org/read.php?tid=10902593) [Ollydbg](http://ollydbg.de/download.htm)
 
 ```
 用于提取游戏中的文本，某些游戏需要特殊码
@@ -73,7 +73,14 @@ Visual Novel Reader [Vnr整合版](http://pan.baidu.com/s/1i4PD4AL) [Vnr wiki](http
 录制固定键鼠脚本并运行的国产软件，内置弹窗推广，可以用在一些rpg上
 ```
 
+----
+
 <h2 id="拆包">拆包</h2>
+
+[乜都讲D](http://blog.ztjal.info/category/acg/acg-data)
+[VNDB](http://vndb.org/)
+[批评空间](http://erogamescape.ddo.jp/~ap2/ero/toukei_kaiseki/)
+[Bangumi](http://bangumi.tv/game)
 
 **通用软件**
 [Crass](http://galcrass.blog124.fc2blog.us/blog-entry-12.html) 
@@ -91,7 +98,25 @@ Visual Novel Reader [Vnr整合版](http://pan.baidu.com/s/1i4PD4AL) [Vnr wiki](http
 [Extractdata](https://sourceforge.net/projects/extractdata/)
 
 ```
-开发者被minori告上了法庭，不再更新
+开发者被minori告上了法庭，已停止更新
+```
+
+[Asmodean](http://asmodean.reverse.net/pages/expdfpk.html)
+
+```
+支持广泛，已停止更新
+```
+
+[大师♂罗莊的程序](http://blog.csdn.net/luozhuang/article/details/45872757)
+
+```
+各种打包解包软件，作者已隐退
+```
+
+[游戏文本导出工具](http://www.anzhi.com/intro.php?softid=367361&auth=1)
+
+```
+安卓平台
 ```
 
 **krkr**
@@ -113,6 +138,12 @@ Xmoe开发，能解krkrz
 本来是命令行程序，clowwindy（shadowsocks作者）二次开发为gui，他被政府请去喝茶了
 ```
 
+[吉里吉里XP3提取工具](http://shouji.baidu.com/software/927743.html)
+
+```
+安卓平台
+```
+
 **onscripter**
 [NS通用开发组件](http://bbs.gfan.com/android-443243-1-1.html) 
 
@@ -124,48 +155,71 @@ huoyanyan开发（汉化？），acgf已关闭，作者已隐退，具体请查看内部文档，事实上就是N
 [Rpatool](https://github.com/Shizmob/rpatool)
 
 ```
-rpa创建和压缩
+rpa包创建和压缩
 ```
 
 [Unrpa](https://github.com/Lattyware/unrpa)
 
 ```
-解rpa
+解rpa包
 ```
 
 [Unrpyc](https://github.com/CensoredUsername/unrpyc)
 
 ```
-解rpyc，基本上是文本
+解rpyc包，基本上是文本
 ```
 
 <h2 id="SDK">SDK</h2>
 
-[krkr](http://kikyou.info/tvp/#downloads) 模拟器Kirikiroid2/XP3player 安卓[Onedrive](https://onedrive.live.com/?authkey=%21AMqv_lMBITnbrH8&id=F278FD903D520A13%21106&cid=F278FD903D520A13) [Googleplay](https://play.google.com/store/apps/details?id=org.tvp.kirikiri2_free) IOS [Appstore](https://itunes.apple.com/app/xp3player/id1064060287) 
+[krkrSDK](http://kikyou.info/tvp/#downloads) 模拟器Kirikiroid2/XP3player 安卓[Onedrive](https://onedrive.live.com/?authkey=%21AMqv_lMBITnbrH8&id=F278FD903D520A13%21106&cid=F278FD903D520A13) [Googleplay](https://play.google.com/store/apps/details?id=org.tvp.kirikiri2_free) IOS [Appstore](https://itunes.apple.com/app/xp3player/id1064060287) 
 
 ```
 特效多，安卓ios和windows平台
 ```
 
-[Nscripter](http://nscripter.insani.org/sdk.html) [Onscripter-jh](https://bitbucket.org/jh10001/onscripter-jh/downloads) [Mine](http://www.coolapk.com/game/cn.natdon.onscripterv2) [Onscripter](https://onscripter.osdn.jp/onscripter.html)
+[NscripterSDK](http://nscripter.insani.org/sdk.html) [Nscripter](http://www.nscripter.com/) [Onscripter-jh](https://bitbucket.org/jh10001/onscripter-jh/downloads) [Mine](http://www.coolapk.com/game/cn.natdon.onscripterv2) [Onscripter官方不支持中文](https://onscripter.osdn.jp/onscripter.html) [Onscripter大师♂罗莊的程序](http://blog.csdn.net/luozhuang/article/details/6269014)
 
 ```
 ons和ns通用，移植平台多
 ```
 
-[Ren'Py](https://www.renpy.org/latest.html) 
+[Ren'PySDK](https://www.renpy.org/latest.html) 
 
 ```
 英文游戏多，SDK中可以直接打包为apk运行
 ```
+
 ----
 
+<h2 id="其他">其他</h2>
 
+[KRKR2 Onscripter 资源打包工具](http://blog.csdn.net/luozhuang/article/details/32349583?utm_source=tuicool&utm_medium=referral)
 
+```
+在安卓手机上打包xp3/nsa/sar
+```
 
+[GAL 高压缩版辅助工具](http://blog.csdn.net/luozhuang/article/details/8083883)
 
+```
+各种压文件
+```
 
+[图片格式转换工具](http://www.anzhi.com/intro.php?softid=363164&auth=1)
 
+```
+安卓平台，图片格式转换
+```
 
+[Gamepacid](http://blog.csdn.net/luozhuang/article/details/5907639)
 
+```
+GALGAME引擎识别工具
+```
 
+[GALGAME 剧本提取工具](http://blog.csdn.net/luozhuang/article/details/5312706)
+
+```
+不启动游戏情况下将游戏剧本保存到TXT文件，不完美
+```
