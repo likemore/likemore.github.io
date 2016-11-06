@@ -1,0 +1,171 @@
+---
+layout: default
+title:  "Galgame程序工具集合"
+date:   2016-10-23 12:40:00
+categories: main
+---
+
+Galgame运行拆包以及官方sdk的收集，方便做程序
+
+[常规](#常规) [拆包](#拆包) [SDK](#SDK)
+
+<h2 id="常规">常规</h2>
+
+[Deamon Tools Lite](http://www.daemon-tools.cc/downloads) 
+
+```
+虚拟光驱，加载iso，mds/mdf等镜像文件，有免费版本
+```
+
+[K-lite Codec Pack](https://www.codecguide.com/download_kl.htm) 
+
+```
+视频解码软件
+```
+
+Visual Novel Reader [Vnr整合版](http://pan.baidu.com/s/1i4PD4AL) [Vnr wiki](http://sakuradite.com/wiki/zh/vnr) 替代[喵翻](http://bqsweb.blog.163.com/blog/static/2081432892010013104015130/) [寒风游戏翻译机](http://tieba.baidu.com/p/3223199510#55430297224l) [寒风翻译机度盘](http://pan.baidu.com/s/1c21byIs)
+
+```
+安装命令@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('http://sakuradite.org/reader.ps1'))"，免费
+```
+
+**其中可能涉及的软件**
+
+[Ith](https://code.google.com/archive/p/interactive-text-hooker/downloads) [Agth](https://sites.google.com/site/agthook/) [特殊码获取教程](https://bbs.sumisora.org/read.php?tid=10902593) [Ollydbg](http://ollydbg.de/download.htm)
+
+```
+用于提取游戏中的文本，某些游戏需要特殊码
+```
+
+[Jbeijing](http://www.kodensha.jp/soft/jb/) [Jbeijing度盘](http://pan.baidu.com/s/1eRXllpo)
+
+```
+高电社出品中日词典，目前综合翻译质量最高，付费软件
+```
+
+[Annot-player](http://annot-player.joydownload.com/) 
+
+```
+支持弹幕功能的视频播放器，播放游戏op用的
+```
+
+[Cp2tran](https://bbs.sumisora.org/read.php?tid=10918284)
+
+```
+自动将剪贴板的文本放到翻译器翻译。具体支持哪些翻译器，请查看软件的翻译器列表
+``
+
+[Locale emulator](https://xupefei.github.io/Locale-Emulator/) 替代品[Ntleas](https://ntlea.codeplex.com/) [Applocale](http://microsoft-applocale.software.informer.com/1.3/) [LocaleSwitch](https://bbs.sumisora.org/read.php?tid=10932331) [SBApplocale](http://www.steelbytes.com/?mid=45)
+
+```
+软件转区，在非日文windows下运行日文游戏，防止软件乱码或打不开
+```
+
+[Steam](http://store.steampowered.com/) 替代品[Origin](https://www.origin.com/irl/en-us/store/download) [Uplay](https://uplay.ubi.com/#!/en-us/) [Battlenet](https://us.battle.net/account/download/index.xml?show=bnetapp)
+
+```
+游戏在线购买平台，有少量日系游戏
+```
+
+[按键精灵](http://www.anjian.com/) 按键精灵绿化（没找到，谁有发我一下谢谢） 进阶版[Autohotkey](http://www.ahkscript.org/) [Autohotkey教程](https://autohotkey.com/boards/viewtopic.php?t=1099)
+
+```
+录制固定键鼠脚本并运行的国产软件，内置弹窗推广，可以用在一些rpg上
+```
+
+<h2 id="拆包">拆包</h2>
+
+**通用软件**
+[Crass](http://galcrass.blog124.fc2blog.us/blog-entry-12.html) 
+
+```
+万金油解包器，插件丰富，已停止更新
+```
+
+[Arc_conv](https://www.mediafire.com/?muchdnunw5z70) 
+
+```
+俄罗斯人w8m开发
+```
+
+[Extractdata](https://sourceforge.net/projects/extractdata/)
+
+```
+开发者被minori告上了法庭，不再更新
+```
+
+**krkr**
+[Krkrextract](https://github.com/xmoeproject/KrkrExtract) 
+
+```
+Xmoe开发，能解krkrz
+```
+
+[Xp3viewer](http://bbs.xxxc.at/viewthread.php?tid=1747) 
+
+```
+常用kr2都能解开
+```
+
+[Xp3dumpergui](https://bbs.sumisora.org/read.php?tid=10975710)
+
+```
+本来是命令行程序，clowwindy（shadowsocks作者）二次开发为gui，他被政府请去喝茶了
+```
+
+**onscripter**
+[NS通用开发组件](http://bbs.gfan.com/android-443243-1-1.html) 
+
+```
+huoyanyan开发（汉化？），acgf已关闭，作者已隐退，具体请查看内部文档，事实上就是NScripter SDK，下载请往下翻
+```
+
+**Ren'Py**
+[Rpatool](https://github.com/Shizmob/rpatool)
+
+```
+rpa创建和压缩
+```
+
+[Unrpa](https://github.com/Lattyware/unrpa)
+
+```
+解rpa
+```
+
+[Unrpyc](https://github.com/CensoredUsername/unrpyc)
+
+```
+解rpyc，基本上是文本
+```
+
+<h2 id="SDK">SDK</h2>
+
+[krkr](http://kikyou.info/tvp/#downloads) 模拟器Kirikiroid2/XP3player 安卓[Onedrive](https://onedrive.live.com/?authkey=%21AMqv_lMBITnbrH8&id=F278FD903D520A13%21106&cid=F278FD903D520A13) [Googleplay](https://play.google.com/store/apps/details?id=org.tvp.kirikiri2_free) IOS [Appstore](https://itunes.apple.com/app/xp3player/id1064060287) 
+
+```
+特效多，安卓ios和windows平台
+```
+
+[Nscripter](http://nscripter.insani.org/sdk.html) [Onscripter-jh](https://bitbucket.org/jh10001/onscripter-jh/downloads) [Mine](http://www.coolapk.com/game/cn.natdon.onscripterv2) [Onscripter](https://onscripter.osdn.jp/onscripter.html)
+
+```
+ons和ns通用，移植平台多
+```
+
+[Ren'Py](https://www.renpy.org/latest.html) 
+
+```
+英文游戏多，SDK中可以直接打包为apk运行
+```
+----
+
+
+
+
+
+
+
+
+
+
