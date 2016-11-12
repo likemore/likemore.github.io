@@ -53,7 +53,7 @@ Visual Novel Reader [Vnr整合版](http://pan.baidu.com/s/1i4PD4AL) [Vnr wiki](h
 
 ```
 自动将剪贴板的文本放到翻译器翻译。具体支持哪些翻译器，请查看软件的翻译器列表
-``
+```
 
 [Locale emulator](https://xupefei.github.io/Locale-Emulator/) 替代品[Ntleas](https://ntlea.codeplex.com/) [Applocale](http://microsoft-applocale.software.informer.com/1.3/) [LocaleSwitch](https://bbs.sumisora.org/read.php?tid=10932331) [SBApplocale](http://www.steelbytes.com/?mid=45)
 
