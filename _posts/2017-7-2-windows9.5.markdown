@@ -1,128 +1,128 @@
 ---
 layout: default
-title:  "windows9.5 ½Ì³Ì"
+title:  "windows9.5 æ•™ç¨‹"
 date:   2017-07-02 05:42:00
 categories: main
 ---
 
-ÄÇÃ´ÏÖÔÚÄã¶Ô´ËºÜºÃÆæ£¬²¢ÇÒÏëÒª¶¯ÊÖÖÆ×÷×Ô¼ºµÄwindows9.5ÁËÃ´£¿Ë§´ôÁË¡£
+é‚£ä¹ˆç°åœ¨ä½ å¯¹æ­¤å¾ˆå¥½å¥‡ï¼Œå¹¶ä¸”æƒ³è¦åŠ¨æ‰‹åˆ¶ä½œè‡ªå·±çš„windows9.5äº†ä¹ˆï¼Ÿå¸…å‘†äº†ã€‚
 
-´ó´óµÄÃâÔğÉùÃ÷£º±¾·½·¨ÔÚ¸ÃÏîÄ¿ÖĞÊÊÓÃÓÚÎÒÃÇ£¬µ«²¢²»Ò»¶¨Í¬ÑùÊÊÓÃÓÚÄú£¬Èç¹ûÄú»¹ÊÇ¾õµÃÕâÑùÃ»ÎÊÌâµÄ»°£¬ÄÇÃ´ÈÃÎÒÃÇ¿ªÊ¼°É¡£
+å¤§å¤§çš„å…è´£å£°æ˜ï¼šæœ¬æ–¹æ³•åœ¨è¯¥é¡¹ç›®ä¸­é€‚ç”¨äºæˆ‘ä»¬ï¼Œä½†å¹¶ä¸ä¸€å®šåŒæ ·é€‚ç”¨äºæ‚¨ï¼Œå¦‚æœæ‚¨è¿˜æ˜¯è§‰å¾—è¿™æ ·æ²¡é—®é¢˜çš„è¯ï¼Œé‚£ä¹ˆè®©æˆ‘ä»¬å¼€å§‹å§ã€‚
 
-Ò»ÇĞ´ÓÒ»¸öĞÂ°²×°µÄwindows 10¿ªÊ¼
+ä¸€åˆ‡ä»ä¸€ä¸ªæ–°å®‰è£…çš„windows 10å¼€å§‹
 
-o Ê×ÏÈÈ·ÈÏËüÒÑ¾­¸üĞÂµ½ÁË×îĞÂ°æ±¾
+o é¦–å…ˆç¡®è®¤å®ƒå·²ç»æ›´æ–°åˆ°äº†æœ€æ–°ç‰ˆæœ¬
 
-o °ÑÓÃ»§·´À¡½ûÓÃµô - ²»ÏñÎ¢ÈíÒ»Ñù¶ÔÎÒÃÇ¸ÉÁËÉ¶¸ĞĞËÈ¤
+o æŠŠç”¨æˆ·åé¦ˆç¦ç”¨æ‰ - ä¸åƒå¾®è½¯ä¸€æ ·å¯¹æˆ‘ä»¬å¹²äº†å•¥æ„Ÿå…´è¶£
 
-ÔÚwindowsµÄÉèÖÃÓ¦ÓÃÖĞ¸ü¸ÄÒşË½ÉèÖÃ
+åœ¨windowsçš„è®¾ç½®åº”ç”¨ä¸­æ›´æ”¹éšç§è®¾ç½®
 
-[ÔÚ×¢²á±íÖĞ½ûÓÃÓÃ»§·´À¡](http://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/)
+[åœ¨æ³¨å†Œè¡¨ä¸­ç¦ç”¨ç”¨æˆ·åé¦ˆ](http://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/)
 
-ÓÃ¹ÜÀíÔ±Éí·İ´ò¿ªÃüÁîÌáÊ¾·û£¨cmd.exe)£¬È»ºóÊäÈë£º
+ç”¨ç®¡ç†å‘˜èº«ä»½æ‰“å¼€å‘½ä»¤æç¤ºç¬¦ï¼ˆcmd.exe)ï¼Œç„¶åè¾“å…¥ï¼š
 
-¡P       sc diagtrack start= disabled
+î“–       sc diagtrack start= disabled
 
-o ¿ªÍ·Ç°ÃæµÄ¿Õ¸ñÊÇÒ»¶¨ÒªÓĞµÄ
+o å¼€å¤´å‰é¢çš„ç©ºæ ¼æ˜¯ä¸€å®šè¦æœ‰çš„
 
-¡P       sc stop diagtrack
+î“–       sc stop diagtrack
 
-o ¸ü¸Ä·şÎñ-°´×¡windows¼ü²¢°´R£¬È»ºó¼üÈëservices.msc²¢Ñ¡ÔñÈ·¶¨¡£
+o æ›´æ”¹æœåŠ¡-æŒ‰ä½windowsé”®å¹¶æŒ‰Rï¼Œç„¶åé”®å…¥services.mscå¹¶é€‰æ‹©ç¡®å®šã€‚
 
-Background Intelligent Transfer Serivce ¡V ×Ô¶¯£¨ÑÓ³ÙÆô¶¯£©->ÊÖ¶¯
+Background Intelligent Transfer Serivce î“œ è‡ªåŠ¨ï¼ˆå»¶è¿Ÿå¯åŠ¨ï¼‰->æ‰‹åŠ¨
 
-Connected User Experiences and Telemetry ¡V ×Ô¶¯->ÊÖ¶¯
+Connected User Experiences and Telemetry î“œ è‡ªåŠ¨->æ‰‹åŠ¨
 
-Diagnostic Policy Service ¡V ×Ô¶¯->ÊÖ¶¯
+Diagnostic Policy Service î“œ è‡ªåŠ¨->æ‰‹åŠ¨
 
-Internet Connection Sharing (ICS) ¡V ÊÖ¶¯£¨´¥·¢Æ÷Æô¶¯£©->½ûÓÃ
+Internet Connection Sharing (ICS) î“œ æ‰‹åŠ¨ï¼ˆè§¦å‘å™¨å¯åŠ¨ï¼‰->ç¦ç”¨
 
-Windows Biometric Service ¡V ×Ô¶¯->ÊÖ¶¯
+Windows Biometric Service î“œ è‡ªåŠ¨->æ‰‹åŠ¨
 
-WLAN Autoconfig ¡V ×Ô¶¯->ÊÖ¶¯
+WLAN Autoconfig î“œ è‡ªåŠ¨->æ‰‹åŠ¨
 
-o ÏÂÔØ²¢°²×°ÒÔÏÂÄÚÈİ(Çë×Ô±¸¿ÆÑ§ÉÏÍø¹¤¾ß£©£º
+o ä¸‹è½½å¹¶å®‰è£…ä»¥ä¸‹å†…å®¹(è¯·è‡ªå¤‡ç§‘å­¦ä¸Šç½‘å·¥å…·ï¼‰ï¼š
 
 [Aeroglass 1.5.2](http://www.glass8.eu/download)
 
-[Win7 Taskbar Reflection](http://www.classicshell.net/forum/viewtopic.php?f=21&t=6089&hilit=windows+7+taskbar+texture&start=50#p27834) - ±£´æ"Win7 Taskbar Reflection for opacity 40 qty .png"¸½¼ş
+[Win7 Taskbar Reflection](http://www.classicshell.net/forum/viewtopic.php?f=21&t=6089&hilit=windows+7+taskbar+texture&start=50#p27834) - ä¿å­˜"Win7 Taskbar Reflection for opacity 40 qty .png"é™„ä»¶
 
-[Win7 Start Button](http://www.classicshell.net/forum/viewtopic.php?f=18&t=3207#p15050) - ±£´æ"Windows 7.png"¸½¼ş
+[Win7 Start Button](http://www.classicshell.net/forum/viewtopic.php?f=18&t=3207#p15050) - ä¿å­˜"Windows 7.png"é™„ä»¶
 
-[ClassicShell](http://www.classicshell.net/downloads/) - °²×°ºó£¬½øÈëÒÔÏÂ²Ëµ¥£¬²¢¸ù¾İĞèÒª½øĞĞ¸ü¸Ä£º
+[ClassicShell](http://www.classicshell.net/downloads/) - å®‰è£…åï¼Œè¿›å…¥ä»¥ä¸‹èœå•ï¼Œå¹¶æ ¹æ®éœ€è¦è¿›è¡Œæ›´æ”¹ï¼š
 
-Æ¤·ô: [WIN7LIKE](http://www.classicshell.net/forum/viewtopic.php?f=17&t=5824)
+çš®è‚¤: [WIN7LIKE](http://www.classicshell.net/forum/viewtopic.php?f=17&t=5824)
 
-¿ªÊ¼°´¼ü
+å¼€å§‹æŒ‰é”®
 
-o Ìæ»»¿ªÊ¼°´¼ü
+o æ›¿æ¢å¼€å§‹æŒ‰é”®
 
-o °´¼üÍ¼Æ¬: Ñ¡ÔñÎÄ¼ş - Windows 7.png
+o æŒ‰é”®å›¾ç‰‡: é€‰æ‹©æ–‡ä»¶ - Windows 7.png
 
-o °´¼ü³ß´ç: ¸ù¾İ·Ö±æÂÊ/Ëõ·Å±ÈÀı£¬°´ÕÕĞèÒª¸ü¸ÄÎª24£¬32£¬48£¬64µÈ
+o æŒ‰é”®å°ºå¯¸: æ ¹æ®åˆ†è¾¨ç‡/ç¼©æ”¾æ¯”ä¾‹ï¼ŒæŒ‰ç…§éœ€è¦æ›´æ”¹ä¸º24ï¼Œ32ï¼Œ48ï¼Œ64ç­‰
 
-ÈÎÎñÀ¸
+ä»»åŠ¡æ 
 
-o ÈÎÎñÀ¸Íâ¹Û:²£Á§
+o ä»»åŠ¡æ å¤–è§‚:ç»ç’ƒ
 
-o ÈÎÎñÀ¸²»Í¸Ã÷¶È: 40
+o ä»»åŠ¡æ ä¸é€æ˜åº¦: 40
 
-o ÈÎÎñÀ¸ÎÆÀí: Ñ¡ÔñÎÄ¼ş - Win7 Taskbar Reflection for opacity 40 qty .png
+o ä»»åŠ¡æ çº¹ç†: é€‰æ‹©æ–‡ä»¶ - Win7 Taskbar Reflection for opacity 40 qty .png
 
-²Ëµ¥À¸Íâ¹Û
+èœå•æ å¤–è§‚
 
-o ²£Á§²»Í¸Ã÷¶È: 10
+o ç»ç’ƒä¸é€æ˜åº¦: 10
 
 [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)
 
-¡P       ÓÒ¼üµ¥»÷ÍĞÅÌÍ¼±ê£¬µ¥»÷¸ß¼¶Ñ¡Ïî£¬½«show_desktop_button_size¸ü¸ÄÎª12
+î“–       å³é”®å•å‡»æ‰˜ç›˜å›¾æ ‡ï¼Œå•å‡»é«˜çº§é€‰é¡¹ï¼Œå°†show_desktop_button_sizeæ›´æ”¹ä¸º12
 
-¡P       ÓÒ¼üµ¥»÷ÈÎÎñÀ¸£¬Cortana ->Òş²Ø£¬ÔÚÍ¬Ò»²Ëµ¥ÖĞÈ¡ÏûÑ¡ÖĞÏÔÊ¾ÈÎÎñÊÓÍ¼°´¼ü
+î“–       å³é”®å•å‡»ä»»åŠ¡æ ï¼ŒCortana ->éšè—ï¼Œåœ¨åŒä¸€èœå•ä¸­å–æ¶ˆé€‰ä¸­æ˜¾ç¤ºä»»åŠ¡è§†å›¾æŒ‰é”®
 
 [OldNewExplorer](http://www.majorgeeks.com/files/details/oldnewexplorer.html)
 
-¡P       Ñ¡Ôñ"Use command bar instead of Ribbon"£¬È»ºó°²×°
+î“–       é€‰æ‹©"Use command bar instead of Ribbon"ï¼Œç„¶åå®‰è£…
 
 [UxStyle](https://github.com/riverar/uxstyle/releases)
 
 [Aero 7 theme](http://sagorpirbd.deviantart.com/art/Aero-7-Themes-for-Win10-Final-523979941)
 
-ÎÒÃÇµÄÊÓÆµÀïÓÃÁËÕâ¸öÖ÷ÌâµÄ"Clean"°æ±¾
+æˆ‘ä»¬çš„è§†é¢‘é‡Œç”¨äº†è¿™ä¸ªä¸»é¢˜çš„"Clean"ç‰ˆæœ¬
 
-½øÈë"Theme\Themes For 10 Build 14393 Anniversary Update"²¢½«¸ÃÎÄ¼ş¼ĞÖĞµÄËùÓĞÄÚÈİ¸´ÖÆµ½C:\Windows\Resources\Themes
+è¿›å…¥"Theme\Themes For 10 Build 14393 Anniversary Update"å¹¶å°†è¯¥æ–‡ä»¶å¤¹ä¸­çš„æ‰€æœ‰å†…å®¹å¤åˆ¶åˆ°C:\Windows\Resources\Themes
 
-o ×¢²á±íµ÷Õû:
+o æ³¨å†Œè¡¨è°ƒæ•´:
 
-°´×¡windows¼ü²¢°´R£¬È»ºó¼üÈëregedit²¢Ñ¡ÔñÈ·¶¨
+æŒ‰ä½windowsé”®å¹¶æŒ‰Rï¼Œç„¶åé”®å…¥regeditå¹¶é€‰æ‹©ç¡®å®š
 
-½øÈë     HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\DWM
+è¿›å…¥     HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\DWM
 
-¡P       ÓÒ¼üµ¥»÷->ĞÂ½¨-> DWORD: ColorizationGlassReflectionIntensity ¡V Ë«»÷²¢ÉèÖÃÊ®½øÖÆÎª100
+î“–       å³é”®å•å‡»->æ–°å»º-> DWORD: ColorizationGlassReflectionIntensity î“œ åŒå‡»å¹¶è®¾ç½®åè¿›åˆ¶ä¸º100
 
-¡P       ÓÒ¼üµ¥»÷->ĞÂ½¨-> DWORD: ColorizationColorBalance ¡V Ë«»÷²¢ÉèÖÃÊ®½øÖÆÎª100
+î“–       å³é”®å•å‡»->æ–°å»º-> DWORD: ColorizationColorBalance î“œ åŒå‡»å¹¶è®¾ç½®åè¿›åˆ¶ä¸º100
 
-¡P       ÓÒ¼üµ¥»÷->ĞÂ½¨-> DWORD: ColorizationColorBalanceInactive ¡V Ë«»÷²¢ÉèÖÃÊ®½øÖÆÎª25
+î“–       å³é”®å•å‡»->æ–°å»º-> DWORD: ColorizationColorBalanceInactive î“œ åŒå‡»å¹¶è®¾ç½®åè¿›åˆ¶ä¸º25
 
-¡P       ÓÒ¼üµ¥»÷->ĞÂ½¨-> DWORD: GlassOpacity ¡V Ë«»÷²¢ÉèÖÃÊ®½øÖÆÎª20
+î“–       å³é”®å•å‡»->æ–°å»º-> DWORD: GlassOpacity î“œ åŒå‡»å¹¶è®¾ç½®åè¿›åˆ¶ä¸º20
 
-¡P       ÓÒ¼üµ¥»÷->ĞÂ½¨-> DWORD: RoundRectRadius ¡V Ë«»÷²¢ÉèÖÃÊ®½øÖÆÎª12
+î“–       å³é”®å•å‡»->æ–°å»º-> DWORD: RoundRectRadius î“œ åŒå‡»å¹¶è®¾ç½®åè¿›åˆ¶ä¸º12
 
-o Èç¹ûĞèÒªµÄ»°¿ÉÒÔ½øĞĞ¸üÏ¸ÖÂµÄµ÷Õû:
+o å¦‚æœéœ€è¦çš„è¯å¯ä»¥è¿›è¡Œæ›´ç»†è‡´çš„è°ƒæ•´:
 
-´ÓÒ»¸öÒÑ°²×°ºÃµÄWindows 7ÖĞ¸´ÖÆtaskmgr.exeºÍmsconfig.exe£¬°ÑËûÃÇÈ¡¸öÏñÊÇtm.exeºÍmsconfig1.exeÕâÖÖÃû×Ö²¢°ÑËüÃÇ·ÅÔÚWindows\System32ÖĞ
+ä»ä¸€ä¸ªå·²å®‰è£…å¥½çš„Windows 7ä¸­å¤åˆ¶taskmgr.exeå’Œmsconfig.exeï¼ŒæŠŠä»–ä»¬å–ä¸ªåƒæ˜¯tm.exeå’Œmsconfig1.exeè¿™ç§åå­—å¹¶æŠŠå®ƒä»¬æ”¾åœ¨Windows\System32ä¸­
 
-[ÔÚ×¢²á±íÖĞÓÃ¸´ÖÆ¹ıÀ´µÄtm.exeÌæ»»Ô­À´µÄÎÄ¼ş¹ÜÀíÆ÷](https://www.howtogeek.com/howto/windows-vista/replacing-task-manager-with-process-explorer-in-vista/)
+[åœ¨æ³¨å†Œè¡¨ä¸­ç”¨å¤åˆ¶è¿‡æ¥çš„tm.exeæ›¿æ¢åŸæ¥çš„æ–‡ä»¶ç®¡ç†å™¨](https://www.howtogeek.com/howto/windows-vista/replacing-task-manager-with-process-explorer-in-vista/)
 
-°´Í¬ÑùµÄ²½ÖèÌæ»»msconfig
+æŒ‰åŒæ ·çš„æ­¥éª¤æ›¿æ¢msconfig
 
-½ûÓÃÈËÔ±£¬ÈÕÀúºÍÓÊ¼ş´æ´¢·şÎñ£¨½«»á½ûÓÃÕâĞ©Ó¦ÓÃ£©ºÍ´ÅÌù¸üĞÂ
+ç¦ç”¨äººå‘˜ï¼Œæ—¥å†å’Œé‚®ä»¶å­˜å‚¨æœåŠ¡ï¼ˆå°†ä¼šç¦ç”¨è¿™äº›åº”ç”¨ï¼‰å’Œç£è´´æ›´æ–°
 
-¡P       CDPUserSvc_7e8fc5, Contact Data_7e8fc5, Sync Host_7e8fc5, Tile Data Model Server, User Data Access_7e8fc5, User Data Storage_7e8fc5
+î“–       CDPUserSvc_7e8fc5, Contact Data_7e8fc5, Sync Host_7e8fc5, Tile Data Model Server, User Data Access_7e8fc5, User Data Storage_7e8fc5
 
-Ğ¶ÔØ³ıÁËÓ¦ÓÃÉÌµêÖ®ÍâËùÓĞUWPÓ¦ÓÃ£¨ÕâÑùÄã¾ÍÄÜÔÚµ±ÄãĞèÒªµÄÊ±ºòÔÙ´ÎÊ¹ÓÃËüÃÇ£©
+å¸è½½é™¤äº†åº”ç”¨å•†åº—ä¹‹å¤–æ‰€æœ‰UWPåº”ç”¨ï¼ˆè¿™æ ·ä½ å°±èƒ½åœ¨å½“ä½ éœ€è¦çš„æ—¶å€™å†æ¬¡ä½¿ç”¨å®ƒä»¬ï¼‰
 
-[½ûÓÃCortana](https://www.howtogeek.com/265027/how-to-disable-cortana-in-windows-10/)
+[ç¦ç”¨Cortana](https://www.howtogeek.com/265027/how-to-disable-cortana-in-windows-10/)
 
-[Èç¹ûÄÇÊÇÄãµÄ°üµÄ»°´ò¿ªÏêÏ¸µÄµÇÂ¼/µÇ³öĞÅÏ¢](http://www.thewindowsclub.com/enable-verbose-status-message-windows)
+[å¦‚æœé‚£æ˜¯ä½ çš„åŒ…çš„è¯æ‰“å¼€è¯¦ç»†çš„ç™»å½•/ç™»å‡ºä¿¡æ¯](http://www.thewindowsclub.com/enable-verbose-status-message-windows)
 
-Íê³ÉÁË! Èç¹ûÒ»ÇĞË³Àû£¬ÄãÏÖÔÚÕıÔÚ¿´×Åwindows 9.5 - Ò»¸öÓĞ×Åwindows7µÄÍâ¹Û²¢ÇÒ½ûÓÃÁËÓÃ»§·´À¡µÄwindows10
+å®Œæˆäº†! å¦‚æœä¸€åˆ‡é¡ºåˆ©ï¼Œä½ ç°åœ¨æ­£åœ¨çœ‹ç€windows 9.5 - ä¸€ä¸ªæœ‰ç€windows7çš„å¤–è§‚å¹¶ä¸”ç¦ç”¨äº†ç”¨æˆ·åé¦ˆçš„windows10
