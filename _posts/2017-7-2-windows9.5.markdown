@@ -1,0 +1,128 @@
+---
+layout: default
+title:  "windows9.5 教程"
+date:   2017-07-02 05:42:00
+categories: main
+---
+
+那么现在你对此很好奇，并且想要动手制作自己的windows9.5了么？帅呆了。
+
+大大的免责声明：本方法在该项目中适用于我们，但并不一定同样适用于您，如果您还是觉得这样没问题的话，那么让我们开始吧。
+
+一切从一个新安装的windows 10开始
+
+o 首先确认它已经更新到了最新版本
+
+o 把用户反馈禁用掉 - 不像微软一样对我们干了啥感兴趣
+
+在windows的设置应用中更改隐私设置
+
+[在注册表中禁用用户反馈](http://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/)
+
+用管理员身份打开命令提示符（cmd.exe)，然后输入：
+
+       sc diagtrack start= disabled
+
+o 开头前面的空格是一定要有的
+
+       sc stop diagtrack
+
+o 更改服务-按住windows键并按R，然后键入services.msc并选择确定。
+
+Background Intelligent Transfer Serivce  自动（延迟启动）->手动
+
+Connected User Experiences and Telemetry  自动->手动
+
+Diagnostic Policy Service  自动->手动
+
+Internet Connection Sharing (ICS)  手动（触发器启动）->禁用
+
+Windows Biometric Service  自动->手动
+
+WLAN Autoconfig  自动->手动
+
+o 下载并安装以下内容(请自备科学上网工具）：
+
+[Aeroglass 1.5.2](http://www.glass8.eu/download)
+
+[Win7 Taskbar Reflection](http://www.classicshell.net/forum/viewtopic.php?f=21&t=6089&hilit=windows+7+taskbar+texture&start=50#p27834) - 保存"Win7 Taskbar Reflection for opacity 40 qty .png"附件
+
+[Win7 Start Button](http://www.classicshell.net/forum/viewtopic.php?f=18&t=3207#p15050) - 保存"Windows 7.png"附件
+
+[ClassicShell](http://www.classicshell.net/downloads/) - 安装后，进入以下菜单，并根据需要进行更改：
+
+皮肤: [WIN7LIKE](http://www.classicshell.net/forum/viewtopic.php?f=17&t=5824)
+
+开始按键
+
+o 替换开始按键
+
+o 按键图片: 选择文件 - Windows 7.png
+
+o 按键尺寸: 根据分辨率/缩放比例，按照需要更改为24，32，48，64等
+
+任务栏
+
+o 任务栏外观:玻璃
+
+o 任务栏不透明度: 40
+
+o 任务栏纹理: 选择文件 - Win7 Taskbar Reflection for opacity 40 qty .png
+
+菜单栏外观
+
+o 玻璃不透明度: 10
+
+[7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)
+
+       右键单击托盘图标，单击高级选项，将show_desktop_button_size更改为12
+
+       右键单击任务栏，Cortana ->隐藏，在同一菜单中取消选中显示任务视图按键
+
+[OldNewExplorer](http://www.majorgeeks.com/files/details/oldnewexplorer.html)
+
+       选择"Use command bar instead of Ribbon"，然后安装
+
+[UxStyle](https://github.com/riverar/uxstyle/releases)
+
+[Aero 7 theme](http://sagorpirbd.deviantart.com/art/Aero-7-Themes-for-Win10-Final-523979941)
+
+我们的视频里用了这个主题的"Clean"版本
+
+进入"Theme\Themes For 10 Build 14393 Anniversary Update"并将该文件夹中的所有内容复制到C:\Windows\Resources\Themes
+
+o 注册表调整:
+
+按住windows键并按R，然后键入regedit并选择确定
+
+进入     HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\DWM
+
+       右键单击->新建-> DWORD: ColorizationGlassReflectionIntensity  双击并设置十进制为100
+
+       右键单击->新建-> DWORD: ColorizationColorBalance  双击并设置十进制为100
+
+       右键单击->新建-> DWORD: ColorizationColorBalanceInactive  双击并设置十进制为25
+
+       右键单击->新建-> DWORD: GlassOpacity  双击并设置十进制为20
+
+       右键单击->新建-> DWORD: RoundRectRadius  双击并设置十进制为12
+
+o 如果需要的话可以进行更细致的调整:
+
+从一个已安装好的Windows 7中复制taskmgr.exe和msconfig.exe，把他们取个像是tm.exe和msconfig1.exe这种名字并把它们放在Windows\System32中
+
+[在注册表中用复制过来的tm.exe替换原来的文件管理器](https://www.howtogeek.com/howto/windows-vista/replacing-task-manager-with-process-explorer-in-vista/)
+
+按同样的步骤替换msconfig
+
+禁用人员，日历和邮件存储服务（将会禁用这些应用）和磁贴更新
+
+       CDPUserSvc_7e8fc5, Contact Data_7e8fc5, Sync Host_7e8fc5, Tile Data Model Server, User Data Access_7e8fc5, User Data Storage_7e8fc5
+
+卸载除了应用商店之外所有UWP应用（这样你就能在当你需要的时候再次使用它们）
+
+[禁用Cortana](https://www.howtogeek.com/265027/how-to-disable-cortana-in-windows-10/)
+
+[如果那是你的包的话打开详细的登录/登出信息](http://www.thewindowsclub.com/enable-verbose-status-message-windows)
+
+完成了! 如果一切顺利，你现在正在看着windows 9.5 - 一个有着windows7的外观并且禁用了用户反馈的windows10
