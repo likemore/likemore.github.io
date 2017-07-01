@@ -5,6 +5,8 @@ date:   2017-07-02 05:42:00
 categories: main
 ---
 
+[原贴链接](https://linustechtips.com/main/topic/748494-windows-95-install-guide/#comment-9478082)
+
 那么现在你对此很好奇，并且想要动手制作自己的windows9.5了么？帅呆了。
 
 大大的免责声明：本方法在该项目中适用于我们，但并不一定同样适用于您，如果您还是觉得这样没问题的话，那么让我们开始吧。
