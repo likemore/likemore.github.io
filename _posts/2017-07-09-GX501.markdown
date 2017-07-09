@@ -1,0 +1,714 @@
+---
+layout: default
+title:  "Asus ROG Zephyrus GX501 笔记本测评"
+date:   2017-07-09 11:17:00
+categories: main
+---
+
+# Asus ROG Zephyrus GX501 笔记本测评
+
+---
+
+Florian Glaser, Klaus Hinum, J. Simon Leitner (英文翻译 Andreas Osthoff), 07/09/2017，（中文翻译 理科的营养午餐）07/04/2017
+
+TAG:游戏本，Geforce，Kaby-Lake，笔记本，Windows
+
+---
+
+在轻薄的前提下有着性能强大的显卡，华硕又一次设法做出了目前为止最轻薄的设备。这次是游戏本ROG Zephyrus GX501，尽管它的厚度只有17.9毫米，但这款15英寸的笔记本电脑配备了intel core-i7 四核CPU以及Nvidia的新卡GTX 1080 Max-Q，现在我们已经有机会去测评这台超薄游戏本了。
+
+![头图](https://www.notebookcheck.net/fileadmin/_processed_/d/a/csm_DSC07639_0ad173ab44.jpg)
+
+Asus ROG Zephyrus GX501
+
+---
+
+游戏本应该有多薄？答案很简单：越薄越好。谁想一直带着个砖头呢？但问题是：游戏本能做到多薄？显然，现在已经能做到18mm以内了，尽管用了高端CPU i7-7700HQ和显卡GTX 1080。这很棒棒，这么有吸引力的超薄机身有着如此顶级的表现。然而通常情况下，会有隐情，甚至不止一个...
+
+15英寸的设备规格非常赞，除了刚才提到的高端硬件，我们的测试机Zephyrus GX501VI还配备了24 GB DDR-4内存和1TB PCIe-SSD（德国零售版只有500 GB容量），你还能得到一块全高清120 Hz支持G-sync的屏幕面板。这些加起来显然不便宜，即使是性能强大的游戏本3000欧元也是个很高的价格。
+
+我们会先在下面贴上我们对测试机的初步印象，接下来的的几天里会进行更加细致的测试和分析。
+
+---
+
+## 配置表
+
+![]()
+
+Asus Zephyrus GX501
+
+处理器
+[Intel Core i7-7700HQ](https://www.notebookcheck.net/Intel-Core-i7-7700HQ-Notebook-Processor.187975.0.html) 2.8 GHz ([Intel Core i7](https://www.notebookcheck.net/Intel-Core-i7-Notebook-Processor-Clarksfield.21025.0.html)
+显卡
+[NVIDIA GeForce GTX 1080 Max-Q](https://www.notebookcheck.net/NVIDIA-GeForce-GTX-1080-Max-Q-GPU-Benchmarks-and-Specs.224730.0.html) - 8192 MB, 核心频率: 1227 MHz, 闪存频率: 2500 MHz, GDDR5X, ForceWare 382.22
+内存
+24576 MB  包含8 GB + 16 GB DDR4-2400 SO-DIMM双通道内存
+显示器
+15.6英，16:9，1920x1080，141 PPI，友达B156HAN04.2（AUO42ED），IPS，120Hz，G-Sync，全高清，非镜面屏
+主板
+英特尔HM175
+硬盘
+三星SSD SM961 1TB M.2 MZVKW1T0HMLH，1024 GB  
+三星SSD SM961（MZVKW1T0HMLH-00000），1 TB PCIe 3.0 x4，M.2 Type 2280
+声卡
+Realtek ALC295 @ Intel Sunrise Point-LP PCH - 高清晰度音频控制器
+接口
+4个USB 3.0 / 3.1 Gen1接口,1个USB 3.1 Gen2接口，1个Thunderbolt接口，1个HDMI接口，1个DisplayPort接口，1个肯辛通防盗锁扣，音频接口：耳机和麦克风组合接口（3.5 mm立体声插孔），亮度传感器
+网卡
+Intel Dual Band Wireless-AC 8265 (a/b/g/n/ac), 蓝牙 4.1
+尺寸
+高度x宽度x深度（mm）：17.9 x 379 x 262（= 0.67 x 14.92 x 10.31 英寸）
+电池
+50 Wh四芯锂离子电池
+操作系统
+Microsoft Windows 10 Pro（64位）
+相机
+网络摄像头：HD
+附加功能
+扬声器：2.0，键盘：Chiclet，RGB，键盘灯：有，230瓦PSU，保修卡，快速入门指南，螺丝刀，USB-3.0 到RJ45-LAN适配器，橡胶掌垫，Strix Impact游戏鼠标，几个厂商工具，XSplit Gamecaster试用版，24个月保修
+重量
+2.25公斤（= 79.37盎司/ 4.96磅），电源重量：670克（= 23.63盎司/ 1.48磅）
+价格
+3000欧元
+链接
+[华硕主页](http://www.asus.com/)
+[华硕笔记本](https://www.asus.com/PageError/?strPage=/products.aspx?l1=5/)
+
+---
+
+## 模具
+
+游戏本定位高端市场，与之相应地，它由铝和镁两种金属制作而成。C面的边缘向下弯曲形成了一圈金属切边。除了铜色的后边缘GX501的设计非常精细， A面的ROG logo和内部风扇周围两个红色LED也点亮地很巧妙。看起来几乎每样东西都必须遵从着造出轻薄底座的目标。一般基本单元的扭转阻力在我们的预生产样品上表现都很不错，我们在键盘的中心区域集中压力按压也只能让它稍微凹下去一点。这一块机身是部分有孔的，这样就能使新鲜空气在机身中穿过各种组件。显示单元用点劲可以扭动，但没有造成图像失真。
+
+当掀开A面时，Asus GX501真正精彩的地方才呈现在你眼前。一体式的机械部件将镁制底板从基座上抬起，这样一来笔记本就以一个小角度放置着。它通过为了新鲜空气的流通在周围制造一个宽敞的开口为散热带来了重要的额外数厘米空间。大体上看起来即合理又使用，但你可能会在ROG GX501关上的时候才是超薄的这一点上指责华硕进行了欺骗。
+
+拆掉这个盖板是比较容易的，它由四个螺丝钉固定着。你甚至能在华硕给的盒子里直接找到相应的螺丝刀。盖板一卸下来，你就能看到两个风扇了，并在必要的时候给它们清灰。很显然这可能除掉里面所有的异物。请确认空隙里没东西了再把盖子盖上，这一点非常重要，否则你可能会把笔记本弄坏。可升级的选项非常有限，因为想要成功看到其他所有组件需要复杂的拆解，那不是用户该做的。
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+你能看出和那些特别的替代桌面版的GTX 1080的巨大差别（比如[Asus G701VIK](https://www.notebookcheck.net/Asus-ROG-G701VIK-Notebook-Review.198294.0.html)）。考虑到它底座1.8cm左右的厚度和2.25kg左右的重量，你可以在我们的“[影音本十强](https://www.notebookcheck.net/Notebookcheck-s-Top-10-Multimedia-Laptops.98608.0.html)”和“[便携游戏本十强](https://www.notebookcheck.net/Notebookcheck-s-Top-10-Thin-Light-Gaming-Laptops.126456.0.html)”榜单中找到合适的对手。这包括像[Gigabyte Aero 15](https://www.notebookcheck.net/Gigabyte-Aero-15-7700HQ-GTX-1060-FHD-Laptop-Review.215364.0.html)或[Msi GS63VR](https://www.notebookcheck.net/MSI-GS63VR-7RF-7700HQ-4K-UHD-GTX-1060-Laptop-Review.207426.0.html)这种厚度同样小于2cm的[机型](https://www.notebookcheck.net/MSI-GS63VR-7RF-7700HQ-4K-UHD-GTX-1060-Laptop-Review.207426.0.html)。我们也会用[Asus FX502VM](https://www.notebookcheck.net/Asus-FX502VM-AS73-Notebook-Review.199250.0.html),[Alienware15R3](https://www.notebookcheck.net/Alienware-15-R3-Notebook-Review.196584.0.html)和[Schenker XMG P507](https://www.notebookcheck.net/Schenker-XMG-P507-Clevo-P651HS-G-Notebook-Review.193074.0.html)作为对比机型。它们的厚度在2-3cm之间，但仅限于[GeForce GTX 1060](https://www.notebookcheck.net/Mobile-NVIDIA-GeForce-GTX-1060-Laptop-Benchmarks-and-Specs.169547.0.html)或[GTX 1070](https://www.notebookcheck.net/Mobile-NVIDIA-GeForce-GTX-1070-Laptop.169549.0.html)。
+
+注意：在我们的测试机上，我们发现了一些品控问题。底板的前缘并不完全平整，而且HDMI接口的后缘各自遭受了弯曲或细小的裂缝。
+
+---
+
+## 尺寸比较
+
+![]()
+
+---
+
+## 接口
+
+考虑到轻薄的因素，接口的种数还是挺不错的。在左边，我们有一个风扇排气，电源接口，HDMI 2.0接口，两个USB 3.0接口和一个立体声的耳机麦克风通用接口（我们比较喜欢单独的接口），在右边有一个雷电3接口（也支持DisplayPort和USB 3.1 Gen. 2），另外两个USB 3.0接口和一个防盗锁扣插槽。潜在用户将不得不放弃卡槽，RJ45网线接口以及传统的Mini-Displayport接口。
+
+接口的布局对右手很友好，但接口应该更靠后一点以便于用左手使用外接鼠标。
+
+![]()
+
+左侧：电源，HDMI 2.0，两个 USB 3.0（一个能充电），3.5mm立体声接口
+
+![]()
+
+右边：雷电3（包括DisplayPort和USB 3.1 Gen. 2）,两个USB 3.0，防盗锁扣插槽
+
+---
+
+## 通信
+
+无线通信交给了一块Intel芯片处理，双频无线网卡8265AC，支持802.11标a/b/g/n/ac标准和蓝牙4.1，能和人气游戏模块Killer无线网卡- n/a/ac 1435和1535在接收数据方面分别一拼高下，但它们在传输时更快一些（对照表）。我们的测试在距离路由器一米的地方进行，在评测时没有出现任何问题，即使隔了好几面墙我们依然能联网成功（180-300 Mbps左右 @10米）。
+
+联网
+
+iperf3 客户端（接收） TCP 1 m 4M x10
+
+![]()
+
+iperf3 客户端 (发送) TCP 1 m 4M x10
+
+![]()
+
+---
+
+配件
+
+对于笔记本来说，盒子里给的东西还是相当大方的。你不仅可以拿到刚刚提过的螺丝刀，还能拿到一本快速入门指南，一本保修手册和一个USB 3.0到RJ45转接头。考虑到以太网接口的缺失，这是个不错的解决方案。我们的测试机还随机附送了一个很赞的鼠标，叫Strix Impact，以及一个外置橡胶掌托。后者会使你的打字体验更加舒适，因为键盘（类似[MSI GT83VR](https://www.notebookcheck.net/MSI-GT83VR-7RF-7920HQ-GTX-1080-SLI-Full-HD-Laptop-Review.229770.0.html)那种）正好位于它前面。这（指键盘位于C面下半部分的设计）可能是使GTX 1080 Max-Q在如此轻薄的情况下依然能保持散热良好的必要条件。
+
+---
+
+保修
+
+在德国和奥地利提供为期24个月的保修期（提货＆退货服务）
+
+---
+
+## 软件
+
+主要增添的软件是强大的Gaming Center，它结合了几个像是ROG Auranus（配置键盘灯），Sonic Studio II（声音调节）和Sonic Radar II（更好地追踪游戏中的敌人）这样的子程序和工具。
+
+最重要的部分叫做Turbo Gear，它是可选的超频工具。虽然标准模式下的GX501（我们测试那台）用的是默认频率，但在Extreme模式下GeForce GTX 1080 Max-Q从1227-1336 MHz超到了1297-1436 MHz，提升了5%左右。超的不多，对系统噪音的影响不大但性能也被限制了。3DMark 11的显卡跑分只提升了3%（24169分到23540分 ）。
+
+![]()
+
+Gaming Center
+
+![]()
+
+Aura
+
+![]()
+
+Sonic Studio II
+
+![]()
+
+Sonic Radar II
+
+---
+
+## 输入设备
+
+键盘
+
+键盘是你在它轻薄的构造上一定会注意到的部分。它的键程很短，布局也有问题。那些F键的奇怪组合（F1-F4是分开的，其他的没有）有点恼人，就像Insert/Delete组合键和没有Print键一样。我们最后拿到的测试机配备了英式布局（下图下面那张图），而预览大会上那台却是美式布局（下图）。
+
+Zephyrus还有RGB背景照明的特性，正如前文所述，可以通过软件（WASD或QWER区域合理的特定组合）进行调整，还有一些其他效果（静态或动态的颜色改变），我们对按键反馈和打字体验不是特别满意。稳定性也不完美，所以轻触键盘的时候不是特别精确，手感也有些绵软。其中一个优点是打字的时候噪音不是很大，以其他很多键盘都要安静。大多数按键的尺寸也很不错（字母和数字键：16x14mm）；只是方向键对玩游戏的人来说实在太小了。
+
+![]()
+
+美式键盘
+
+![]()
+
+英式键盘
+
+---
+
+触控板
+
+为了给散热腾出空间，有着专业鼠标按键的触控板被放置在了键盘右侧。这种设计对玩游戏来说非常不切实际，不过我们很肯定大多数玩家是会用外置键盘的。在飞机或是火车上用基本就不可能了，所以这种与众不同的布局是个优点。该尺寸不能完美适配Windows上那些应用程序（Office，web，...），因为它窄的只有6cm，所以你必须得不停地重新移动手指以此获得更长的光标移动距离。另一方面它7.5cm的高度还是够用的。
+
+精准性和触感表现的都不错，光滑的表面提供了很棒的流畅性。很显然，它也是支持手势操作的，所以你可以用来缩放，滚动或是旋转什么东西。
+
+机智：跟Msi GT83VR很像，你可以通过按钮将触控板转换为数字键盘（看图）。
+
+![]()
+
+巧克力键盘
+
+![]()
+
+光污染
+
+![]()
+
+当数字键盘用的触控板
+
+---
+
+## 屏幕
+
+和很多其他友商不同，华硕没有用TN屏，而是给它120Hz刷新率的面板上了块更时髦的IPS屏，从结果上来说这么做是既有优点也有缺点的。好的一点是可视角度更大了，TN屏很容易出现画面失真的情况，IPS却能从更多角度上提供稳定画面。色彩也更丰富了，玩游戏，看片，看图也更爽了。
+
+![]()
+
+亮度分布
+
+![]()
+
+![]()
+
+IPS屏在响应时间上不如TN屏，Zephyrus上友达屏（B156HAN04.2）24ms的黑色到白色的响应时间和40ms的灰色到灰色的响应时间可比微星120Hz的TN屏（7 bzw. 26 ms @[MSI GT73VR](https://www.notebookcheck.net/MSI-GT73VR-7RF-Titan-Pro-Notebook-Review.189710.0.html)）慢多了。被越来越多游戏本使用的Nvidia G-Sync技术使它比起传统的60Hz屏幕显示图片更加平滑，它同步了显卡的帧率和屏幕刷新率。G-Sync在跑分和其他测试中会被禁掉，就像自动亮度一样。至于图片模式，可以通过在Gaming Center中调整ROG GameVisual为默认sRGB设置。
+
+---
+
+![]()
+
+CalMAN：灰度
+
+![]()
+
+CalMAN：灰度（校准后）
+
+![]()
+
+CalMAN：饱和度扫描
+
+![]()
+
+CalMAN：饱和度扫描（校准后）
+
+![]()
+
+CalMAN: 色彩测试
+
+![]()
+
+CalMAN:色彩测试（校准后）
+
+![]()
+
+Asus ROG GX501 vs. sRGB (92 %)
+
+![]()
+
+Asus ROG GX501 vs. AdobeRGB (60 %)
+
+---
+
+屏幕测试中整体表现不错，有些项很突出。只要你避免阳光直射，300尼特左右的最大亮度也足够在户外使用。黑值（0.25 cd/m²）和对比度（~1300:1）也都很棒。但色彩还原不够完美，CalMAN上看明显发蓝，但可以通过校色除掉（我们的icc文件在上面的显示框里）。为了灰度和色彩我们可以将 Delta-2000值从6左右减少到3。
+
+---
+
+![]()
+
+户外使用
+
+![]()
+
+子像素阵列
+
+![]()
+
+倾斜视角
+
+--
+
+92%sRGB的色域很受玩家和影音用户的喜爱，专业用户，请把注意力转移到更广泛的AdobeRGB标准上，只有60%的覆盖率。让人很生气的一点是我们的测试机右上角有很明显的漏光问题。它只在显示黑色图片的时候看得出来，但这不是一个该发生在这么贵的机器上的问题。不那么稳定的A面结构可能是漏光的原因。每个买家都必须为自己决定1920x1080的分辨率在15英寸的笔记本上是否够用，GTX 1080 Max-Q的性能至少使用于120Hz面板；在3K或4K屏幕上Pascal芯片很少能稳定60帧以上。
+
+屏幕响应时间
+
+屏幕响应时间体现了屏幕从一种颜色变到另一种颜色要花多久，响应时间慢的话就可能出残响，也可能使移动物体变模糊（重影）。玩快节奏3D游戏的玩家要特别注意你们需要快速响应时间。
+
+---
+
+黑到白的响应时间
+
+![]()
+
+50%灰到80%灰的响应时间
+
+![]()
+
+---
+
+屏幕闪烁/PWM(脉冲宽度调制)
+
+为了调暗屏幕，一些笔记本会简单地连续循环开关背光，这是一种称为脉冲宽度调制（PWM）的方法。理想情况下，这种高频率开关人眼是无法察觉的。但如果频率太低，眼睛敏感的用户可能会感到压力或头痛，甚至会注意到闪烁。
+
+![]()
+
+---
+
+## 性能
+
+让我们用GX501的一些截图开启性能部分。
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+处理器
+
+CPU的计算处理交给了Intel Kaby-lake这一代最成功的四核处理器之一，[Core i7-7700HQ](https://www.notebookcheck.net/Intel-Core-i7-7700HQ-Notebook-Processor.187975.0.html)是很多高端笔记本的选择，所以用了它没什么可惊讶的。Turbo Boos功能可以将核心频率提升到基准频率以上，该功能在GX501上完美运行。我们在Cinebench 15跑分中将频率限制为3.4-3.8GHz之间，分别是多核和单核负载的最大值。
+
+---
+
+![]()
+
+单核渲染
+
+![]()
+
+多核渲染
+
+---
+
+高频也能保持很长时间，我们在30分钟内循环使用Cinebench依旧能在15英寸笔记本上跑出稳定的分数。CPU跑分大体上确立了GX501的出色分数，与其他7700HQ的笔记本在Cinebench R15和Cinebench R11.5上的分数都旗鼓相当。
+
+![]()
+
+Cinebench R15 
+
+CPU单核64位
+
+![]()
+
+CPU多核六十四位
+
+![]()
+
+Cinebench 11.5
+
+CPU单核64位
+
+![]()
+
+CPU多核六十四位
+
+![]()
+
+---
+
+该处理器还支持超线程技术，这意味着它能同时跑八个线程，CPU没降频，但由于温度原因Turbo Boost在最大负载下被禁用了。因为没有显卡切换（Nvidia [Optimus](https://www.notebookcheck.net/Nvidia-Optimus-Review.25467.0.html)）所以集显HD [Graphics 630](https://www.notebookcheck.net/Intel-HD-Graphics-630.187948.0.html)不能用。
+
+---
+
+![]()
+
+---
+
+系统性能
+
+Zephyrus在系统跑分中也表现非常出色，在比较中该15英寸笔记本夺得第一（家庭得分）或第三（工作得分），但相对于[Alienware 15 R3](https://www.notebookcheck.net/Alienware-15-R3-Notebook-Review.196584.0.html)和[Gigabyte Aero 15](https://www.notebookcheck.net/Gigabyte-Aero-15-7700HQ-GTX-1060-FHD-Laptop-Review.215364.0.html)优势极小，所以它们基本上差不多。
+
+---
+
+PCMark 8
+
+工作分 加速v2
+
+![]()
+
+家庭分 加速v2
+
+![]()
+
+PCMark 10
+
+![]()
+
+![]()
+
+---
+
+存储设备
+
+华硕为了尽可能地保持机身的紧凑没有配备2.5英寸的硬盘而是仅实现了M.2技术。厂商塞了一块PCIe硬盘以此来榨干这项技术的全部潜力，与传统的SATA-III接口固态硬盘不同（例如[Asus FX553VD](https://www.notebookcheck.net/Asus-FX553VD-7700HQ-GTX-1050-Laptop-Review.213522.0.html)），PCIe硬盘没有550MB/s的限制，我们的测试机配备了一块1TB版本的三星SM961，性能表现非常出色。CrystalDiskMark 5.2分别测出了高达3445（读取）和1848MB/s（写入）的随机速率，之后我们会与Schenker XMG A517的三星960EVO进行对比。
+
+---
+
+![]()
+
+---
+
+显卡性能
+
+Nvidia想要通过Max-Q设计将[Geforce GTX 1080](https://www.notebookcheck.net/NVIDIA-GeForce-GTX-1080-Laptop.171212.0.html)和[Geforce GTX 1070](https://www.notebookcheck.net/Mobile-NVIDIA-GeForce-GTX-1070-Laptop.169549.0.html)的性能塞进超薄笔记本中。目前为止，超薄游戏本的选择仅限于[Geforce GTX 1050](https://www.notebookcheck.net/NVIDIA-GeForce-GTX-1050-Notebook.178614.0.html)（[Ti](https://www.notebookcheck.net/NVIDIA-GeForce-GTX-1050-Ti-Notebook.168400.0.html)）或[Geforece GTX 1060](https://www.notebookcheck.net/Mobile-NVIDIA-GeForce-GTX-1060-Laptop-Benchmarks-and-Specs.169547.0.html)。Pascal这一代的两款显卡的性能足以高特效畅玩市面上所有游戏了，我们想要测试一下Max-Q版本是否也能如此，但首先让我们先从规格说起。Nvidia在硬件和软件驱动两方面都对新卡做了效率优化。
+
+---
+
+![]()
+
+Geforece GTX 1080 Max-Q
+
+![]()
+
+带120Hz屏幕
+
+![]()
+
+并支持G-Sync
+
+---
+
+大多数基本规格让我们想起2016年的标准版本，调整后的[GTX 1080](https://www.notebookcheck.net/NVIDIA-GeForce-GTX-1080-Max-Q-GPU-Benchmarks-and-Specs.224730.0.html)还有250个渲染单元以及2500MHz的8GB GDDR5X显存，核心频率却不一样，不是1582-1771Mhz了，Max-Q版本只有1227-1366MHz。
+
+---
+
+![]()
+
+Turbo Gear标准模式
+
+![]()
+
+Turbo Gear极限模式
+
+---
+
+GPU Boost分别高达1709MHz（Turbo Gear标准模式）或1772MHz（Turbo Gear极限模式），但公版的GTX1080在基准跑分中仍然更快。[Msi GT73VR](https://www.notebookcheck.net/MSI-GT73VR-7RF-Titan-Pro-Notebook-Review.189710.0.html)在3DMark 13 Fire Strike测试中快15%；在3Dmark 11中快22%。
+
+3DMark
+
+3DMark - 1920x1080 Fire Strike图形
+
+![]()
+
+3DMark11
+
+3DMark 11 - 1280x720 Gpu性能
+
+![]()
+
+Unigine Heaven 4.0
+
+Unigine Heaven 4.0 - 极限预设 DX11
+
+---
+
+这意味着GTX 1080 Max-Q事实上与Geforce GTX 1070更有可比性，[Alienware 15 R3](https://www.notebookcheck.net/NVIDIA-GeForce-GTX-1050-Ti-Notebook.168400.0.html)和[Schenker XMG P507](https://www.notebookcheck.net/Schenker-XMG-P507-Clevo-P651HS-G-Notebook-Review.193074.0.html)只比它慢百分之几，但成本要低得多。比GTX 1060的笔记本（[Asus FX502VM](https://www.notebookcheck.net/Asus-FX502VM-AS73-Notebook-Review.199250.0.html)，[Gigabyte Aero 15](https://www.notebookcheck.net/Gigabyte-Aero-15-7700HQ-GTX-1060-FHD-Laptop-Review.215364.0.html)，[Msi GS63VR](https://www.notebookcheck.net/MSI-GS63VR-7RF-7700HQ-4K-UHD-GTX-1060-Laptop-Review.207426.0.html)，...）要强60%左右。想要知道更多有关Nvidia的Max-Q设计请看我们[专门讲它的文章](https://www.notebookcheck.net/Nvidia-Max-Q-WhisperMode-Information-Initial-Benchmarks.230426.0.html)。
+
+---
+
+![]()
+
+---
+
+与CPU相似，GPU也能长时间保持性能，在我们的60分钟[巫师3](https://www.notebookcheck.net/The-Witcher-3-Notebook-Benchmarks.143187.0.html)测试中GTX 1080（~1480MHz @极限模式）频率稳定再来1430MHz，全高清帧率（设置超高）一直在54到61帧之间。
+
+---
+
+![]()
+
+巫师3全高
+
+---
+
+游戏性能
+
+我们的游戏跑分证实了基础跑分的结果，又一次地，GeForce GTX 1080 Max-Q比起GTX 1080更接近GTX 1070。下表列出了24项测试冠军的平均性能次序。
+
+---
+
+![]()
+
+---
+
+每个玩家都必须决定便携的机身和额外10%的性能是否值得去花比GTX 1070的笔记本更多的钱。然而你现在能在小于2cm的笔记本上获得强大的GPU性能，感谢Max-Q设计，这远远超过了主流芯片或入门级的高端GPU。与GTX 1060相比有50%左右的优势。
+
+---
+
+[巫师3] | [蝙蝠侠：阿卡姆骑士] | Star Wars Battlefront | Assassin's Creed Syndicate | Rainbow Six Siege | Rise of the Tomb Raider | Far Cry Primal | The Division |Doom | Mirror's Edge Catalyst | Deus Ex Mankind Divided | Battlefield 1 | Titanfall 2 | Call of Duty Infinite Warfare | Dishonored 2 | Watch Dogs 2 | Resident Evil 7 | For Honor | Ghost Recon Wildlands | Mass Effect Andromeda | Prey | Rocket League | Dirt 4
+
+---
+
+巫师3
+
+3840x2160 High Graphics & Postprocessing (没开Nvidia HairWorks)
+
+![]()
+
+1920x1080 Ultra Graphics＆Postprocessing（HBAO +）
+
+![]()
+
+---
+
+通常情况下Zephyrus可以在原生高清分辨率（1920x1080）下畅玩所有游戏，甚至在某些情况下120Hz面板达到最高极限时也没问题。GTX 1080 Max-Q只会在像[Deus Ex Mankind Divided](https://www.notebookcheck.net/Deus-Ex-Mankind-Divided-Notebook-and-Desktop-Benchmarks.175139.0.html)这类优化不太好的游戏或是分辨率高于全高清的游戏上才会捉襟见肘。外置120Hz面板在这里没什么意义—至少是在高特效或全高特效下。然而就算在3840x2160的分辨率下Zephyrus也从来没跌下过30帧。
+
+另一点很棒的是：驱动（我们用的预装的ForceWar 382.22）看起来做的非常细心，我们在游戏跑分中从未遇到过显卡错误，崩溃或是蓝屏的问题。只是在[使命召唤无限战争](https://www.notebookcheck.net/Call-of-Duty-Infinite-Warfare-Notebook-and-Desktop-Benchmarks.183008.0.html)渲染单元预载时，在[载入](https://www.notebookcheck.net/Call-of-Duty-Infinite-Warfare-Notebook-and-Desktop-Benchmarks.183008.0.html)或是改变硬件时用了很久—大概五分钟的时间。
+
+---
+
+![]()
+
+---
+
+## 外放
+
+系统噪音
+
+Nvidia的Max-Q设计最有趣地方之一是噪音控制，GTX 1080不应超过40dB（A），很多游戏本（也不强那种）显然超过了这个限制，只要你运行“标准”3D软件我们或多或少也能确认此目标的范围。在3D MARK 06中是39-44dB（A）在运行了60分钟巫师3之后是平均42dB，在这么薄的高端游戏本里是个不错的结果。GX501只会在用了Furmark和Prime95工具达到最高负载时才会发出恼人的噪声。在这种不太可能发生的情况下我们的测试设备显示最高达到了50dB（A）。
+
+---
+
+![]()
+
+系统噪音（空载）
+
+![]()
+
+系统噪音（负载）
+
+![]()
+
+扬声器测试
+
+---
+
+即使在风扇狂转的情况下，15英寸体系空载的噪音水平也非常精确地控制在32-34dB（A），所以主观上它们比其他游戏本更吵并会对敏感的用户造成烦恼。冷却液是不会停掉的，但至少在空载的时候是没什么必要。
+
+噪音级别
+
+---
+
+![]()
+
+![]()
+
+---
+
+## 温度
+
+轻薄机身和噪音的控制带来的最大缺点就是模具和那些硬件烫的不行。在压力测试和巫师3中的某些场景的温度都能超过50 °C，这就是说-只要你不在膝盖上用GX501-不是什么大问题，但是键盘表面温度实际上也能达到40 °C以上，对某些用户来说可能觉得不太舒服。新的Max-Q设计毕竟不是笔记本的救星。
+
+---
+
+![]()
+
+压力测试
+
+![]()
+
+最大负载C面（Optris PI 640）
+
+![]()
+
+最大负载D面（Optris PI 640）
+
+---
+
+然而，这里的主要问题应该还是CPU，由于缺乏真正的对手，Intel几乎不会分别在热量管理和效率上做任何努力，因此CPU几乎在所有游戏本中都很烫。在最大负载下运行一小时（又是FurMark和Prime95）后，CPU温度攀升到了90 °C以上，但降频还不到1000MHz。GPU运行巫师3时在84 °C左右都不会降频。
+
+然而，我们是在非常热的夏天测的温度，所以数值在像冬天这种更冷的环境中会更低一些。我们就不去批评空载的结果了，空载时底盘温度在30 °C不是什么好成绩，但笔记本在空载时还是挺凉快的。
+
+---
+
+![]()
+
+![]()
+
+---
+
+扬声器
+
+华硕把扬声器放在了键盘的两侧，因此没有组件能影响冷却表现。这个位置通常不会被手遮住，所以我们不认为会在实用中限制了声音。
+
+说说声音：我们的音频分析揭示了游戏本的平均表现，音质和Gigabyte Aero 15近似，中频和高频相当准确，但在重低音方面都一样烂。83 dB(A)的最大音量对中小型机身来说已经足够了。该表现当一个便携影音本没什么问题，在考虑到了轻薄本的音质这一点上，华硕值得尊敬。
+
+不过如果条件允许的话，当你在固定某个地方用笔记本时最好还是采用外接的解决方案。在测试中我们采用了音效档案Music，Sonic Studio II提供了多种模式和声音增强功能。
+
+---
+
+![]()
+
+![]()
+
+---
+
+## 电源管理
+
+功耗
+
+在效率优化上Nvidia值得赞扬，虽然一般的GTX 1080需要又大又重的330瓦电源适配器，Zephyrus却只需要一个230瓦的，和大多数GTX 1070的笔记本差不多。PSU的大小只有16.5 x 7.5 x 3 cm，比很多友商都小。
+
+我们的跑分证实了对它的好印象，该15英寸笔记本在3D Mark 06中仅有77瓦的功耗，这个分应该是GTX 1060笔记本的分，甚至比那还要更出色一点。只有在最大负载下功耗才向GTX 1070的笔记本靠近。华硕华硕用的G-sync有利于Optimus，所以空载下的结果比较一般（18-31瓦），技嘉在Aero15上要表现的更好一点（12-20瓦）。
+
+---
+
+功耗
+
+![]()
+
+![]()
+
+---
+
+电池续航
+
+一些想买的人最大的问题可能就是电池续航了，为了实现“又薄又快”的理念，华硕仅为GX501配备了四芯电池。不多的50Wh容量阻碍了便携性，为什么会有用短时间耗尽的电池来换取轻薄的机身？
+
+然而不幸的是这就是Zephyrus的模具，即使在最低亮度下续航也只有3小时。2小时左右的浏览网页续航和2小时左右的视频播放（这两种情况下显示亮度在150尼特）也不是什么亮点。笔记本的压力大一点的时候电池续航就会缩短到1小时以内。相比之下：有99Wh电池的Alienware 15 R3在各种情况下的续航都是它的两倍左右。电池性能至少没有特别明显的缩减，我们在巫师3（全高清/极高）上的测试帧率只下降了18%，对于高端游戏本来说是个很好的结果了。
+
+---
+
+电池续航
+
+![]()
+
+![]()
+
+---
+
+## 结论
+
+---
+
+![]()
+
+回顾：ROG Zephyrus GX 501，测试机由华硕德国提供
+
+---
+
+买不买3000欧元的ROG Zephyrus GX501取决于两件事：1.钱够么？2.便携性有多重要？用户会在极度的轻薄和高性能笔记本很靓的模具上花很多钱，它的配置很赞，有一个支持G-Sync的120Hz面板和一流的性能-在这类本子中-目前无敌。
+
+然而，如果你更在意价格而不是厚度的话，GX501就没什么吸引力了，超薄的理念不仅影响散热（负载下的机身很烫），还影响维修，输入设备，接口选择（没有卡槽，没有RJ45-LAN），特别是续航，一个便携游戏本只有3小时的续航太令人失望了。
+
+像Asus Strix GL502VS这种厚一点的GTX1070笔记本不会做出太多妥协而且更实惠。
+
+---
+
+优点
+
+*高对比度广视角120Hz面板
+*有着高端配置的极佳模具
+*强大的Gaming Center
+*轻薄的机身
+*大容量的PCIe固态硬盘
+*配有雷电3接口
+*相对来讲比较轻
+*屏幕带G-Sync
+
+---
+
+缺点
+
+*屏幕响应时间还有进步的空间
+*难以维修和升级
+*测试机有一些品控问题
+*负载下太烫
+*不能切换成集显
+*电池续航短
+*键盘容易弯
+*太贵
+
+---
+
+Asus Zephyrus GX501 - 06/30/2017 v6
+
+Florian Glaser, Klaus Hinum, J. Simon Leitner
+
+![]()
+
+
+
+
+
+
+
+
+
+
+
+
