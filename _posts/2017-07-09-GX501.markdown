@@ -15,9 +15,11 @@ TAG:游戏本，Geforce，Kaby-Lake，笔记本，Windows
 
 ---
 
+[配置表](#配置表) [模具](#模具) [尺寸比较](#尺寸比较) [接口](#接口) [通信](#通信) [软件](#软件) [输入设备](#输入设备) [屏幕](#屏幕) [性能](#性能) [外放](#外放) [温度](#温度) [电源管理](#电源管理) [结论](#结论) 
+
 在轻薄的前提下有着性能强大的显卡，华硕又一次设法做出了目前为止最轻薄的设备。这次是游戏本ROG Zephyrus GX501，尽管它的厚度只有17.9毫米，但这款15英寸的笔记本电脑配备了intel core-i7 四核CPU以及Nvidia的新卡GTX 1080 Max-Q，现在我们已经有机会去测评这台超薄游戏本了。
 
-![头图](https://www.notebookcheck.net/fileadmin/_processed_/d/a/csm_DSC07639_0ad173ab44.jpg)
+![00](https://ooo.0o0.ooo/2017/07/11/5963ad2b45cbb.jpg)
 
 Asus ROG Zephyrus GX501
 
@@ -31,9 +33,9 @@ Asus ROG Zephyrus GX501
 
 ---
 
-## 配置表
+<h2 id="配置表">配置表</h2>
 
-![]()
+![01](https://ooo.0o0.ooo/2017/07/11/5963ad51dac7d.jpg)
 
 Asus Zephyrus GX501
 
@@ -76,7 +78,7 @@ Microsoft Windows 10 Pro（64位）
 
 ---
 
-## 模具
+<h2 id="模具">模具</h2>
 
 游戏本定位高端市场，与之相应地，它由铝和镁两种金属制作而成。C面的边缘向下弯曲形成了一圈金属切边。除了铜色的后边缘GX501的设计非常精细， A面的ROG logo和内部风扇周围两个红色LED也点亮地很巧妙。看起来几乎每样东西都必须遵从着造出轻薄底座的目标。一般基本单元的扭转阻力在我们的预生产样品上表现都很不错，我们在键盘的中心区域集中压力按压也只能让它稍微凹下去一点。这一块机身是部分有孔的，这样就能使新鲜空气在机身中穿过各种组件。显示单元用点劲可以扭动，但没有造成图像失真。
 
@@ -84,22 +86,22 @@ Microsoft Windows 10 Pro（64位）
 
 拆掉这个盖板是比较容易的，它由四个螺丝钉固定着。你甚至能在华硕给的盒子里直接找到相应的螺丝刀。盖板一卸下来，你就能看到两个风扇了，并在必要的时候给它们清灰。很显然这可能除掉里面所有的异物。请确认空隙里没东西了再把盖子盖上，这一点非常重要，否则你可能会把笔记本弄坏。可升级的选项非常有限，因为想要成功看到其他所有组件需要复杂的拆解，那不是用户该做的。
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![02](https://ooo.0o0.ooo/2017/07/11/5963ad78752a0.jpg)
+![03](https://ooo.0o0.ooo/2017/07/11/5963ad894957c.jpg)
+![04](https://ooo.0o0.ooo/2017/07/11/5963ada5e64ac.jpg)
+![05](https://ooo.0o0.ooo/2017/07/11/5963adba9d2ba.jpg)
+![06](https://ooo.0o0.ooo/2017/07/11/5963ae03b80e4.jpg)
+![07](https://ooo.0o0.ooo/2017/07/11/5963ae172dbce.jpg)
+![08](https://ooo.0o0.ooo/2017/07/11/5963ae285fb7e.jpg)
+![09](https://ooo.0o0.ooo/2017/07/11/5963ae3c13f51.jpg)
+![10](https://ooo.0o0.ooo/2017/07/11/5963ae4c0d245.jpg)
+![11](https://ooo.0o0.ooo/2017/07/11/5963ae5c6db4c.jpg)
+![12](https://ooo.0o0.ooo/2017/07/11/5963ae6c937ec.jpg)
+![13](https://ooo.0o0.ooo/2017/07/11/5963ae7b8a3c1.jpg)
+![14](https://ooo.0o0.ooo/2017/07/11/5963ae89a9b9d.jpg)
+![15](https://ooo.0o0.ooo/2017/07/11/5963ae95bd7db.jpg)
+![16](https://ooo.0o0.ooo/2017/07/11/5963aea20594e.jpg)
+![17](https://ooo.0o0.ooo/2017/07/11/5963aebacdce1.jpg)
 
 你能看出和那些特别的替代桌面版的GTX 1080的巨大差别（比如[Asus G701VIK](https://www.notebookcheck.net/Asus-ROG-G701VIK-Notebook-Review.198294.0.html)）。考虑到它底座1.8cm左右的厚度和2.25kg左右的重量，你可以在我们的“[影音本十强](https://www.notebookcheck.net/Notebookcheck-s-Top-10-Multimedia-Laptops.98608.0.html)”和“[便携游戏本十强](https://www.notebookcheck.net/Notebookcheck-s-Top-10-Thin-Light-Gaming-Laptops.126456.0.html)”榜单中找到合适的对手。这包括像[Gigabyte Aero 15](https://www.notebookcheck.net/Gigabyte-Aero-15-7700HQ-GTX-1060-FHD-Laptop-Review.215364.0.html)或[Msi GS63VR](https://www.notebookcheck.net/MSI-GS63VR-7RF-7700HQ-4K-UHD-GTX-1060-Laptop-Review.207426.0.html)这种厚度同样小于2cm的[机型](https://www.notebookcheck.net/MSI-GS63VR-7RF-7700HQ-4K-UHD-GTX-1060-Laptop-Review.207426.0.html)。我们也会用[Asus FX502VM](https://www.notebookcheck.net/Asus-FX502VM-AS73-Notebook-Review.199250.0.html),[Alienware15R3](https://www.notebookcheck.net/Alienware-15-R3-Notebook-Review.196584.0.html)和[Schenker XMG P507](https://www.notebookcheck.net/Schenker-XMG-P507-Clevo-P651HS-G-Notebook-Review.193074.0.html)作为对比机型。它们的厚度在2-3cm之间，但仅限于[GeForce GTX 1060](https://www.notebookcheck.net/Mobile-NVIDIA-GeForce-GTX-1060-Laptop-Benchmarks-and-Specs.169547.0.html)或[GTX 1070](https://www.notebookcheck.net/Mobile-NVIDIA-GeForce-GTX-1070-Laptop.169549.0.html)。
 
@@ -107,29 +109,29 @@ Microsoft Windows 10 Pro（64位）
 
 ---
 
-## 尺寸比较
+<h2 id="尺寸比较">尺寸比较</h2>
 
-![]()
+![18](https://ooo.0o0.ooo/2017/07/11/5963aec846a9a.jpg)
 
 ---
 
-## 接口
+<h2 id="接口">接口</h2>
 
 考虑到轻薄的因素，接口的种数还是挺不错的。在左边，我们有一个风扇排气，电源接口，HDMI 2.0接口，两个USB 3.0接口和一个立体声的耳机麦克风通用接口（我们比较喜欢单独的接口），在右边有一个雷电3接口（也支持DisplayPort和USB 3.1 Gen. 2），另外两个USB 3.0接口和一个防盗锁扣插槽。潜在用户将不得不放弃卡槽，RJ45网线接口以及传统的Mini-Displayport接口。
 
 接口的布局对右手很友好，但接口应该更靠后一点以便于用左手使用外接鼠标。
 
-![]()
+![19](https://ooo.0o0.ooo/2017/07/11/5963aed701618.jpg)
 
-左侧：电源，HDMI 2.0，两个 USB 3.0（一个能充电），3.5mm立体声接口
+左侧：电源接口，HDMI 2.0接口，两个 USB 3.0接口（一个能充电），3.5mm立体声接口
 
-![]()
+![20](https://ooo.0o0.ooo/2017/07/11/5963aee552fc3.jpg)
 
-右边：雷电3（包括DisplayPort和USB 3.1 Gen. 2）,两个USB 3.0，防盗锁扣插槽
+右边：雷电3接口（包括DisplayPort和USB 3.1 Gen. 2）,两个USB 3.0接口，防盗锁扣插槽
 
 ---
 
-## 通信
+<h2 id="通信">通信</h2>
 
 无线通信交给了一块Intel芯片处理，双频无线网卡8265AC，支持802.11标a/b/g/n/ac标准和蓝牙4.1，能和人气游戏模块Killer无线网卡- n/a/ac 1435和1535在接收数据方面分别一拼高下，但它们在传输时更快一些（对照表）。我们的测试在距离路由器一米的地方进行，在评测时没有出现任何问题，即使隔了好几面墙我们依然能联网成功（180-300 Mbps左右 @10米）。
 
@@ -137,11 +139,11 @@ Microsoft Windows 10 Pro（64位）
 
 iperf3 客户端（接收） TCP 1 m 4M x10
 
-![]()
+![21](https://ooo.0o0.ooo/2017/07/11/5963aef114199.jpg)
 
 iperf3 客户端 (发送) TCP 1 m 4M x10
 
-![]()
+![22](https://ooo.0o0.ooo/2017/07/11/5963aefb3ba56.jpg)
 
 ---
 
@@ -157,31 +159,31 @@ iperf3 客户端 (发送) TCP 1 m 4M x10
 
 ---
 
-## 软件
+<h2 id="软件">软件</h2>
 
 主要增添的软件是强大的Gaming Center，它结合了几个像是ROG Auranus（配置键盘灯），Sonic Studio II（声音调节）和Sonic Radar II（更好地追踪游戏中的敌人）这样的子程序和工具。
 
 最重要的部分叫做Turbo Gear，它是可选的超频工具。虽然标准模式下的GX501（我们测试那台）用的是默认频率，但在Extreme模式下GeForce GTX 1080 Max-Q从1227-1336 MHz超到了1297-1436 MHz，提升了5%左右。超的不多，对系统噪音的影响不大但性能也被限制了。3DMark 11的显卡跑分只提升了3%（24169分到23540分 ）。
 
-![]()
+![23](https://ooo.0o0.ooo/2017/07/11/5963af081088e.jpg)
 
 Gaming Center
 
-![]()
+![24](https://ooo.0o0.ooo/2017/07/11/5963af34e01b2.jpg)
 
 Aura
 
-![]()
+![25](https://ooo.0o0.ooo/2017/07/11/5963af3f564cf.jpg)
 
 Sonic Studio II
 
-![]()
+![26](https://ooo.0o0.ooo/2017/07/11/5963af4859b24.jpg)
 
 Sonic Radar II
 
 ---
 
-## 输入设备
+<h2 id="输入设备">输入设备</h2>
 
 键盘
 
@@ -189,11 +191,11 @@ Sonic Radar II
 
 Zephyrus还有RGB背景照明的特性，正如前文所述，可以通过软件（WASD或QWER区域合理的特定组合）进行调整，还有一些其他效果（静态或动态的颜色改变），我们对按键反馈和打字体验不是特别满意。稳定性也不完美，所以轻触键盘的时候不是特别精确，手感也有些绵软。其中一个优点是打字的时候噪音不是很大，以其他很多键盘都要安静。大多数按键的尺寸也很不错（字母和数字键：16x14mm）；只是方向键对玩游戏的人来说实在太小了。
 
-![]()
+![27](https://ooo.0o0.ooo/2017/07/11/5963af5576bd2.jpg)
 
 美式键盘
 
-![]()
+![28](https://ooo.0o0.ooo/2017/07/11/5963af61e84c9.jpg)
 
 英式键盘
 
@@ -207,83 +209,87 @@ Zephyrus还有RGB背景照明的特性，正如前文所述，可以通过软件
 
 机智：跟Msi GT83VR很像，你可以通过按钮将触控板转换为数字键盘（看图）。
 
-![]()
+![29](https://ooo.0o0.ooo/2017/07/11/5963af6fdacb2.jpg)
 
 巧克力键盘
 
-![]()
+![30](https://ooo.0o0.ooo/2017/07/11/5963af7ecdcab.jpg)
 
 光污染
 
-![]()
+![31](https://ooo.0o0.ooo/2017/07/11/5963af8c27398.jpg)
 
 当数字键盘用的触控板
 
 ---
 
-## 屏幕
+<h2 id="屏幕">屏幕</h2>
 
 和很多其他友商不同，华硕没有用TN屏，而是给它120Hz刷新率的面板上了块更时髦的IPS屏，从结果上来说这么做是既有优点也有缺点的。好的一点是可视角度更大了，TN屏很容易出现画面失真的情况，IPS却能从更多角度上提供稳定画面。色彩也更丰富了，玩游戏，看片，看图也更爽了。
 
-![]()
+![32](https://ooo.0o0.ooo/2017/07/11/5963af959f23f.jpg)
 
 亮度分布
 
-![]()
+![33](https://ooo.0o0.ooo/2017/07/11/5963af9e1c767.jpg)
 
-![]()
+![34](https://ooo.0o0.ooo/2017/07/11/5963afa65cd57.jpg)
+
+越小越好
+
+---
 
 IPS屏在响应时间上不如TN屏，Zephyrus上友达屏（B156HAN04.2）24ms的黑色到白色的响应时间和40ms的灰色到灰色的响应时间可比微星120Hz的TN屏（7 bzw. 26 ms @[MSI GT73VR](https://www.notebookcheck.net/MSI-GT73VR-7RF-Titan-Pro-Notebook-Review.189710.0.html)）慢多了。被越来越多游戏本使用的Nvidia G-Sync技术使它比起传统的60Hz屏幕显示图片更加平滑，它同步了显卡的帧率和屏幕刷新率。G-Sync在跑分和其他测试中会被禁掉，就像自动亮度一样。至于图片模式，可以通过在Gaming Center中调整ROG GameVisual为默认sRGB设置。
 
 ---
 
-![]()
+![35](https://ooo.0o0.ooo/2017/07/11/5963afb2380e3.jpg)
 
 CalMAN：灰度
 
-![]()
+![36](https://ooo.0o0.ooo/2017/07/11/5963afbde4be2.jpg)
 
 CalMAN：灰度（校准后）
 
-![]()
+![37](https://ooo.0o0.ooo/2017/07/11/5963afd1975f9.jpg)
 
 CalMAN：饱和度扫描
 
-![]()
+![38](https://ooo.0o0.ooo/2017/07/11/5963afde75acd.jpg)
 
 CalMAN：饱和度扫描（校准后）
 
-![]()
+![39](https://ooo.0o0.ooo/2017/07/11/5963afeaf09f3.jpg)
 
-CalMAN: 色彩测试
+CalMAN: 颜色检查
 
-![]()
+![40](https://ooo.0o0.ooo/2017/07/11/5963affa22965.jpg)
 
-CalMAN:色彩测试（校准后）
+CalMAN:颜色检查（校准后）
 
-![]()
+![41](https://ooo.0o0.ooo/2017/07/11/5963b005cd65c.jpg)
 
 Asus ROG GX501 vs. sRGB (92 %)
 
-![]()
+![42](https://ooo.0o0.ooo/2017/07/11/5963b010d3529.jpg)
 
 Asus ROG GX501 vs. AdobeRGB (60 %)
 
 ---
 
-屏幕测试中整体表现不错，有些项很突出。只要你避免阳光直射，300尼特左右的最大亮度也足够在户外使用。黑值（0.25 cd/m²）和对比度（~1300:1）也都很棒。但色彩还原不够完美，CalMAN上看明显发蓝，但可以通过校色除掉（我们的icc文件在上面的显示框里）。为了灰度和色彩我们可以将 Delta-2000值从6左右减少到3。
+屏幕测试中整体表现不错，有些项很突出。只要你避免阳光直射，300尼特左右的最大亮度也足够在户外使用。黑度值（0.25 cd/m²）和对比度（~1300:1）也都很棒。但色彩还原不够完美，CalMAN上看明显发蓝，但可以通过校色除掉（我们的icc文件在上面的显示框里）。为了灰度和色彩我们可以将 Delta-2000值从6左右减少到3。
 
 ---
 
-![]()
+![43](https://ooo.0o0.ooo/2017/07/11/5963b01c238ad.jpg)
 
 户外使用
 
-![]()
+![44](https://ooo.0o0.ooo/2017/07/11/5963b0277d6ff.jpg)
 
 子像素阵列
 
-![]()
+![45](https://ooo.0o0.ooo/2017/07/11/5963b0323af9e.jpg)
 
 倾斜视角
 
@@ -299,11 +305,11 @@ Asus ROG GX501 vs. AdobeRGB (60 %)
 
 黑到白的响应时间
 
-![]()
+![46](https://ooo.0o0.ooo/2017/07/11/5963b03cd88c4.jpg)
 
 50%灰到80%灰的响应时间
 
-![]()
+![47](https://ooo.0o0.ooo/2017/07/11/5963b04756585.jpg)
 
 ---
 
@@ -311,33 +317,33 @@ Asus ROG GX501 vs. AdobeRGB (60 %)
 
 为了调暗屏幕，一些笔记本会简单地连续循环开关背光，这是一种称为脉冲宽度调制（PWM）的方法。理想情况下，这种高频率开关人眼是无法察觉的。但如果频率太低，眼睛敏感的用户可能会感到压力或头痛，甚至会注意到闪烁。
 
-![]()
+![48](https://ooo.0o0.ooo/2017/07/11/5963b0523ddaf.jpg)
 
 ---
 
-## 性能
+<h2 id="性能">性能</h2>
 
 让我们用GX501的一些截图开启性能部分。
 
-![]()
+![49](https://ooo.0o0.ooo/2017/07/11/5963b05c22faa.jpg)
 
-![]()
+![50](https://ooo.0o0.ooo/2017/07/11/5963b0674b869.jpg)
 
-![]()
+![51](https://ooo.0o0.ooo/2017/07/11/5963b0792fb46.jpg)
 
-![]()
+![52](https://ooo.0o0.ooo/2017/07/11/5963b0829a5ad.jpg)
 
-![]()
+![53](https://ooo.0o0.ooo/2017/07/11/5963b08aab87c.jpg)
 
-![]()
+![54](https://ooo.0o0.ooo/2017/07/11/5963b094a7c00.jpg)
 
-![]()
+![55](https://ooo.0o0.ooo/2017/07/11/5963b09f23907.jpg)
 
-![]()
+![56](https://ooo.0o0.ooo/2017/07/11/5963b0a78d244.jpg)
 
-![]()
+![57](https://ooo.0o0.ooo/2017/07/11/5963b0af241b4.jpg)
 
-![]()
+![58](https://ooo.0o0.ooo/2017/07/11/5963b0b8eeec1.jpg)
 
 处理器
 
@@ -345,11 +351,11 @@ CPU的计算处理交给了Intel Kaby-lake这一代最成功的四核处理器�
 
 ---
 
-![]()
+![59](https://ooo.0o0.ooo/2017/07/11/5963b0c454545.jpg)
 
 单核渲染
 
-![]()
+![60](https://ooo.0o0.ooo/2017/07/11/5963b0d4041a3.jpg)
 
 多核渲染
 
@@ -357,27 +363,27 @@ CPU的计算处理交给了Intel Kaby-lake这一代最成功的四核处理器�
 
 高频也能保持很长时间，我们在30分钟内循环使用Cinebench依旧能在15英寸笔记本上跑出稳定的分数。CPU跑分大体上确立了GX501的出色分数，与其他7700HQ的笔记本在Cinebench R15和Cinebench R11.5上的分数都旗鼓相当。
 
-![]()
+![61](https://ooo.0o0.ooo/2017/07/11/5963b0df8bbe0.jpg)
 
 Cinebench R15 
 
 CPU单核64位
 
-![]()
+![62](https://ooo.0o0.ooo/2017/07/11/5963b0e8e3b3f.jpg)
 
 CPU多核六十四位
 
-![]()
+![63](https://ooo.0o0.ooo/2017/07/11/5963b0f16de4e.jpg)
 
 Cinebench 11.5
 
 CPU单核64位
 
-![]()
+![64](https://ooo.0o0.ooo/2017/07/11/5963b0fa1b02e.jpg)
 
 CPU多核六十四位
 
-![]()
+![65](https://ooo.0o0.ooo/2017/07/11/5963b10b2de27.jpg)
 
 ---
 
@@ -385,7 +391,7 @@ CPU多核六十四位
 
 ---
 
-![]()
+![66](https://ooo.0o0.ooo/2017/07/11/5963b1162c5e4.jpg)
 
 ---
 
@@ -399,17 +405,17 @@ PCMark 8
 
 工作分 加速v2
 
-![]()
+![67](https://ooo.0o0.ooo/2017/07/11/5963b11f3786f.jpg)
 
 家庭分 加速v2
 
-![]()
+![68](https://ooo.0o0.ooo/2017/07/11/5963b1261205e.jpg)
 
 PCMark 10
 
-![]()
+![69](https://ooo.0o0.ooo/2017/07/11/5963b12fef7c7.jpg)
 
-![]()
+![70](https://ooo.0o0.ooo/2017/07/11/5963b13c0cf6b.jpg)
 
 ---
 
@@ -419,7 +425,7 @@ PCMark 10
 
 ---
 
-![]()
+![71](https://ooo.0o0.ooo/2017/07/11/5963b1465b7f5.jpg)
 
 ---
 
@@ -429,15 +435,15 @@ Nvidia想要通过Max-Q设计将[Geforce GTX 1080](https://www.notebookcheck.net
 
 ---
 
-![]()
+![72](https://ooo.0o0.ooo/2017/07/11/5963b151bf97d.jpg)
 
 Geforece GTX 1080 Max-Q
 
-![]()
+![73](https://ooo.0o0.ooo/2017/07/11/5963b15b99f01.jpg)
 
 带120Hz屏幕
 
-![]()
+![74](https://ooo.0o0.ooo/2017/07/11/5963b162efb61.jpg)
 
 并支持G-Sync
 
@@ -447,11 +453,11 @@ Geforece GTX 1080 Max-Q
 
 ---
 
-![]()
+![75](https://ooo.0o0.ooo/2017/07/11/5963b16d7229e.jpg)
 
 Turbo Gear标准模式
 
-![]()
+![76](https://ooo.0o0.ooo/2017/07/11/5963b179b47c6.jpg)
 
 Turbo Gear极限模式
 
@@ -463,17 +469,19 @@ GPU Boost分别高达1709MHz（Turbo Gear标准模式）或1772MHz（Turbo Gear�
 
 3DMark - 1920x1080 Fire Strike图形
 
-![]()
+![77](https://ooo.0o0.ooo/2017/07/11/5963b194ad4a7.jpg)
 
 3DMark11
 
 3DMark 11 - 1280x720 Gpu性能
 
-![]()
+![78](https://ooo.0o0.ooo/2017/07/11/5963b19e339d7.jpg)
 
 Unigine Heaven 4.0
 
 Unigine Heaven 4.0 - 极限预设 DX11
+
+![79](https://ooo.0o0.ooo/2017/07/11/5963b1a678628.jpg)
 
 ---
 
@@ -481,7 +489,7 @@ Unigine Heaven 4.0 - 极限预设 DX11
 
 ---
 
-![]()
+![80](https://ooo.0o0.ooo/2017/07/11/5963b1b352495.jpg)
 
 ---
 
@@ -489,9 +497,9 @@ Unigine Heaven 4.0 - 极限预设 DX11
 
 ---
 
-![]()
+![81](https://ooo.0o0.ooo/2017/07/11/5963b1bfd601d.jpg)
 
-巫师3全高
+巫师3极高
 
 ---
 
@@ -501,7 +509,7 @@ Unigine Heaven 4.0 - 极限预设 DX11
 
 ---
 
-![]()
+![82](https://ooo.0o0.ooo/2017/07/11/5963b1c8bbfb2.jpg)
 
 ---
 
@@ -509,7 +517,7 @@ Unigine Heaven 4.0 - 极限预设 DX11
 
 ---
 
-[巫师3] | [蝙蝠侠：阿卡姆骑士] | Star Wars Battlefront | Assassin's Creed Syndicate | Rainbow Six Siege | Rise of the Tomb Raider | Far Cry Primal | The Division |Doom | Mirror's Edge Catalyst | Deus Ex Mankind Divided | Battlefield 1 | Titanfall 2 | Call of Duty Infinite Warfare | Dishonored 2 | Watch Dogs 2 | Resident Evil 7 | For Honor | Ghost Recon Wildlands | Mass Effect Andromeda | Prey | Rocket League | Dirt 4
+The Witcher 3 | Batman: Arkham Knight | Star Wars Battlefront | Assassin's Creed Syndicate | Rainbow Six Siege | Rise of the Tomb Raider | Far Cry Primal | The Division | Doom | Mirror's Edge Catalyst | Deus Ex Mankind Divided | Battlefield 1 | Titanfall 2 | Call of Duty Infinite Warfare | Dishonored 2 | Watch Dogs 2 | Resident Evil 7 | For Honor | Ghost Recon Wildlands | Mass Effect Andromeda | Prey | Rocket League | Dirt 4
 
 ---
 
@@ -517,11 +525,13 @@ Unigine Heaven 4.0 - 极限预设 DX11
 
 3840x2160 High Graphics & Postprocessing (没开Nvidia HairWorks)
 
-![]()
+![83](https://ooo.0o0.ooo/2017/07/11/5963b1d34bbb1.jpg)
 
 1920x1080 Ultra Graphics＆Postprocessing（HBAO +）
 
-![]()
+![84](https://ooo.0o0.ooo/2017/07/11/5963b1dc651e3.jpg)
+
+由于篇幅限制，此处没有列出所有游戏的帧数列表，想要了解更多请看[原文](https://www.notebookcheck.com/Test-Asus-ROG-Zephyrus-GX501-Laptop.226328.0.html)
 
 ---
 
@@ -531,11 +541,11 @@ Unigine Heaven 4.0 - 极限预设 DX11
 
 ---
 
-![]()
+![85](https://ooo.0o0.ooo/2017/07/11/5963b1e87f82d.jpg)
 
 ---
 
-## 外放
+<h2 id="外放">外放</h2>
 
 系统噪音
 
@@ -543,15 +553,15 @@ Nvidia的Max-Q设计最有趣地方之一是噪音控制，GTX 1080不应超过4
 
 ---
 
-![]()
+![86](https://ooo.0o0.ooo/2017/07/11/5963b1f2e798f.jpg)
 
 系统噪音（空载）
 
-![]()
+![87](https://ooo.0o0.ooo/2017/07/11/5963b1fc2d638.jpg)
 
 系统噪音（负载）
 
-![]()
+![88](https://ooo.0o0.ooo/2017/07/11/5963b204bb099.jpg)
 
 扬声器测试
 
@@ -563,27 +573,27 @@ Nvidia的Max-Q设计最有趣地方之一是噪音控制，GTX 1080不应超过4
 
 ---
 
-![]()
+![89](https://ooo.0o0.ooo/2017/07/11/5963b20c506e0.jpg)
 
-![]()
+![90](https://ooo.0o0.ooo/2017/07/11/5963b2169201c.jpg)
 
 ---
 
-## 温度
+<h2 id="温度">温度</h2>
 
 轻薄机身和噪音的控制带来的最大缺点就是模具和那些硬件烫的不行。在压力测试和巫师3中的某些场景的温度都能超过50 °C，这就是说-只要你不在膝盖上用GX501-不是什么大问题，但是键盘表面温度实际上也能达到40 °C以上，对某些用户来说可能觉得不太舒服。新的Max-Q设计毕竟不是笔记本的救星。
 
 ---
 
-![]()
+![91](https://ooo.0o0.ooo/2017/07/11/5963b228070b3.jpg)
 
 压力测试
 
-![]()
+![92](https://ooo.0o0.ooo/2017/07/11/5963b59f6e076.jpg)
 
 最大负载C面（Optris PI 640）
 
-![]()
+![93](https://ooo.0o0.ooo/2017/07/11/5963b5aa09c4d.jpg)
 
 最大负载D面（Optris PI 640）
 
@@ -595,9 +605,19 @@ Nvidia的Max-Q设计最有趣地方之一是噪音控制，GTX 1080不应超过4
 
 ---
 
-![]()
+![94](https://ooo.0o0.ooo/2017/07/11/5963b5a4326ee.jpg)
 
-![]()
+最大负载
+
+![95](https://ooo.0o0.ooo/2017/07/11/5963b5a536a44.jpg)
+
+空载
+
+![96](https://ooo.0o0.ooo/2017/07/11/5963b5a536c24.jpg)
+
+巫师3
+
+![97](https://ooo.0o0.ooo/2017/07/11/5963b5b098241.jpg)
 
 ---
 
@@ -611,13 +631,51 @@ Nvidia的Max-Q设计最有趣地方之一是噪音控制，GTX 1080不应超过4
 
 ---
 
-![]()
+![98](https://ooo.0o0.ooo/2017/07/11/5963b5b355ce8.jpg)
 
-![]()
+Asus Zephyrus GX501 音频分析
+(+) | 扬声器声音很大 (83 dB)
+低频 100 - 315 Hz
+(-) | 基本没低频 - 平均比中值低23.2% 
+(±) | 线性低频挺平均 (12.5% delta to prev. frequency)
+中频 400 - 2000 Hz
+(+) | 中频均衡 - 只和中值差了2.4%
+(+) | 线性中频 (4.8% delta to prev. frequency)
+高频 2 - 16 kHz
+(+) | 高频均衡 - 只和中值差了2.2%
+(+) | 线性高频 (2% delta to prev. frequency)
+总体 100 - 16.000 Hz
+(±) | 总体线性声音挺平均 (和中值有16.2%的不同)
+和同类机型对比
+» 同类机型42%的更好，4%的近似，54%的更差
+» 最好的有10%的变化，平均是18%，最差是32%
+和所有机型对比
+» 所有机型22%的更好，4%的近似，74%的更差
+» 最好的有3%的变化，平均是 22%，最差是53%
+
+Gigabyte Aero 15 音频分析
+(±) | 扬声器音量平均但很棒 (79 dB)
+低频 100 - 315 Hz
+(-) | 基本没低频s - 平均比中值低23.3%
+(±) | 线性低频挺平均  (10.7% delta to prev. frequency)
+中频 400 - 2000 Hz
+(+) | 中频均衡 - 只和中值差了1.8%
+(+) | 线性中频 (4.1% delta to prev. frequency)
+高频 2 - 16 kHz
+(+) | 高频均衡 - 只和中值差了2.6%
+(+) | 线性高频 (5.1% delta to prev. frequency)
+总体 100 - 16.000 Hz
+(±) | 总体线性声音挺平均 (和中值有16.7%的不同)
+和同类机型对比
+» 同类机型39%的更好，9%的近似，52%的更差
+» 最好的有3%的变化，平均是18%，最差是35%
+和所有机型对比
+» 所有机型24%的更好，6%的近似，70%的更差
+» 最好的有3%的变化，平均是 22%，最差是53%
 
 ---
 
-## 电源管理
+<h2 id="电源管理">电源管理</h2>
 
 功耗
 
@@ -629,9 +687,11 @@ Nvidia的Max-Q设计最有趣地方之一是噪音控制，GTX 1080不应超过4
 
 功耗
 
-![]()
+![99](https://ooo.0o0.ooo/2017/07/11/5963b5a4d7d77.jpg)
 
-![]()
+![100](https://ooo.0o0.ooo/2017/07/11/5963b5b302b89.jpg)
+
+越小越好
 
 ---
 
@@ -645,17 +705,16 @@ Nvidia的Max-Q设计最有趣地方之一是噪音控制，GTX 1080不应超过4
 
 电池续航
 
-![]()
+![101](https://ooo.0o0.ooo/2017/07/11/5963b5d1b8d24.jpg)
 
-![]()
-
----
-
-## 结论
+![102](https://ooo.0o0.ooo/2017/07/11/5963b5d8005c0.jpg)
 
 ---
 
-![]()
+<h2 id="结论">结论</h2>
+---
+
+![103](https://ooo.0o0.ooo/2017/07/11/5963b5fa42344.jpg)
 
 回顾：ROG Zephyrus GX 501，测试机由华硕德国提供
 
@@ -699,7 +758,7 @@ Asus Zephyrus GX501 - 06/30/2017 v6
 
 Florian Glaser, Klaus Hinum, J. Simon Leitner
 
-![]()
+![104](https://ooo.0o0.ooo/2017/07/11/5963b5d1135f0.jpg)
 
 
 
