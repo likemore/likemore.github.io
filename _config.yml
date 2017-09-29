@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'likemore'
 description: 'like it'
-keyword: 'like's blog,like,likemore'
+keyword: 'like's blog, like, likemore'
 url: 'http://likemore.cc' # your host
 baseurl: '/'
 
