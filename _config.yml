@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '测试'
-description: '测试'
-keyword: '测试'
+title: 'like'
+description: 'like'
+keyword: 'like'
 url: 'http://likemore.cc' # your host
 baseurl: '/'
 
@@ -11,9 +11,9 @@ nav:
   tags: '/tags.html'
 
 # Author 配置博主信息
-author: '测试'
-nickname: '测试'
-bio: '测试'
+author: 'like'
+nickname: 'like'
+bio: 'like'
 avatar: 'assets/img/profile.png'
 
 # Search
